@@ -1,0 +1,2 @@
+transaction_count,date_start,date_end,unique_dates,total_revenue,total_cost,total_operating_expense,total_gross_profit,total_net_profit,gross_margin_pct,net_margin_pct,average_transaction_net_margin_pct,average_transaction_revenue,median_transaction_revenue,total_quantity,average_quantity
+850,2025-01-01,2025-12-31,326,61039689.5100,39438335.2400,7682978.6700,21601354.2700,13918375.6000,35.3890,22.8022,22.5466,71811.3994,40662.9200,2991,3.5188

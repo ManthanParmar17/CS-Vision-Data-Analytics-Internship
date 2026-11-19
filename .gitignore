@@ -1,0 +1,42 @@
+# Python environments and bytecode
+.venv/
+venv/
+env/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter and tool caches
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Local secrets and environment configuration
+.env
+.env.*
+!.env.example
+
+# Temporary files and logs
+*.tmp
+*.temp
+*.bak
+*.swp
+*.log
+~$*
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+build/
+dist/
+
+# Local-only internship source documents
+docs/internship_overview/*.pdf

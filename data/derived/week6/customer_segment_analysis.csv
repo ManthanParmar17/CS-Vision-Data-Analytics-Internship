@@ -1,0 +1,4 @@
+Customer_Segment,transaction_count,revenue,average_revenue,median_revenue,revenue_std,cost,operating_expense,gross_profit,net_profit,average_quantity,quantity,revenue_contribution_pct,net_profit_margin_pct,profit_contribution_pct,dimension
+Consumer,474,33519101.1100,70715.4032,33527.5200,89264.7818,21733171.3100,4202296.2600,11785929.8000,7583633.5400,3.2574,1544,54.9136,22.6248,54.4865,Customer_Segment
+Corporate,238,18048904.0100,75835.7311,48901.3950,96315.4489,11614239.3900,2261106.9900,6434664.6200,4173557.6300,3.7059,882,29.5691,23.1236,29.9860,Customer_Segment
+Small Business,138,9471684.3900,68635.3941,48309.3500,79993.5825,6090924.5400,1219575.4200,3380759.8500,2161184.4300,4.0942,565,15.5173,22.8173,15.5276,Customer_Segment

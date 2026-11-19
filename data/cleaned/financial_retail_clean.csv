@@ -1,0 +1,851 @@
+Transaction_ID,Date,Revenue,Cost,Operating_Expense,Gross_Profit,Net_Profit,Product,Category,Customer_ID,Customer_Segment,Region,City,Quantity,Order_Status,Month,Quarter,Year,Profit_Status
+TXN100447,1/1/2025,58470.21,36725.89,7621.28,21744.32,14123.04,Monitor,Electronics,CUST1087,Consumer,South,Chennai,4,Completed,January,Q1,2025,Profit
+TXN100678,1/1/2025,24860.8,16154.15,3382.73,8706.65,5323.92,Smartphone,Electronics,CUST1189,Consumer,North,Delhi,1,Completed,January,Q1,2025,Profit
+TXN100649,1/1/2025,29366.04,18343.7,5027.6,11022.34,5994.74,Smartphone,Electronics,CUST1163,Consumer,South,Chennai,1,Completed,January,Q1,2025,Profit
+TXN100756,1/1/2025,8456.55,4776.35,1291.8,3680.2,2388.4,Smartwatch,Accessories,CUST1072,Corporate,West,Ahmedabad,1,Cancelled,January,Q1,2025,Profit
+TXN100849,1/1/2025,68559.66,41428.9,12170.47,27130.76,14960.29,Laptop,Electronics,CUST1161,Consumer,North,Delhi,1,Completed,January,Q1,2025,Profit
+TXN100207,1/2/2025,4920.82,2574.58,544.76,2346.24,1801.48,Headphones,Accessories,CUST1124,Corporate,North,Delhi,1,Completed,January,Q1,2025,Profit
+TXN100064,1/2/2025,59651.07,42692.65,5216.28,16958.42,11742.14,Printer,Electronics,CUST1058,Corporate,South,Chennai,4,Cancelled,January,Q1,2025,Profit
+TXN100264,1/2/2025,9840,6509.86,910.11,3330.14,2420.03,Keyboard,Accessories,CUST1112,Corporate,West,Pune,5,Completed,January,Q1,2025,Profit
+TXN100326,1/4/2025,74392.72,55109.13,8529.97,19283.59,10753.62,Smartwatch,Accessories,CUST1048,Consumer,West,Mumbai,8,Completed,January,Q1,2025,Profit
+TXN100497,1/4/2025,58471.21,30790.39,8531.25,27680.82,19149.57,Smartphone,Electronics,CUST1074,Small Business,West,Ahmedabad,2,Completed,January,Q1,2025,Profit
+TXN100416,1/5/2025,50311.04,36017.81,8352.36,14293.23,5940.87,Office Chair,Furniture,CUST1102,Corporate,West,Ahmedabad,4,Completed,January,Q1,2025,Profit
+TXN100843,1/5/2025,17600.67,9357.22,1336.69,8243.45,6906.76,Smartwatch,Accessories,CUST1017,Corporate,North,Delhi,2,Completed,January,Q1,2025,Profit
+TXN100614,1/5/2025,322129.56,208281.03,55676.3,113848.53,58172.23,Laptop,Electronics,CUST1051,Consumer,West,Ahmedabad,5,Completed,January,Q1,2025,Profit
+TXN100129,1/5/2025,89131.69,47696.38,15993.37,41435.31,25441.94,Desk,Furniture,CUST1056,Consumer,West,Ahmedabad,5,Completed,January,Q1,2025,Profit
+TXN100721,1/5/2025,67804.68,39385.48,5193.28,28419.2,23225.92,Monitor,Electronics,CUST1144,Small Business,South,Bengaluru,4,Completed,January,Q1,2025,Profit
+TXN100742,1/6/2025,54344.33,35797.92,3805.54,18546.41,14740.87,Smartphone,Electronics,CUST1020,Corporate,South,Chennai,2,Completed,January,Q1,2025,Profit
+TXN100335,1/6/2025,60800.4,46091.25,8377.97,14709.15,6331.18,Laptop,Electronics,CUST1174,Corporate,North,Delhi,1,Completed,January,Q1,2025,Profit
+TXN100606,1/7/2025,44367.48,34563.08,5421.65,9804.4,4382.75,Tablet,Electronics,CUST1053,Consumer,North,Delhi,2,Pending,January,Q1,2025,Profit
+TXN100688,1/8/2025,386250.57,261805.66,35046.44,124444.91,89398.47,Laptop,Electronics,CUST1165,Corporate,West,Mumbai,6,Pending,January,Q1,2025,Profit
+TXN100829,1/8/2025,183798.19,104962.5,25276.49,78835.69,53559.2,Smartphone,Electronics,CUST1119,Consumer,South,Bengaluru,6,Completed,January,Q1,2025,Profit
+TXN100602,1/9/2025,23425.71,16019.57,4186.97,7406.14,3219.17,Tablet,Electronics,CUST1032,Consumer,North,Jaipur,1,Completed,January,Q1,2025,Profit
+TXN100270,1/9/2025,273666.48,157995.05,42109.91,115671.43,73561.52,Smartphone,Electronics,CUST1200,Consumer,West,Ahmedabad,10,Completed,January,Q1,2025,Profit
+TXN100098,1/9/2025,124865.61,77081.68,8981.18,47783.93,38802.75,Smartphone,Electronics,CUST1026,Consumer,East,Kolkata,4,Completed,January,Q1,2025,Profit
+TXN100485,1/10/2025,127422.72,78745.38,21196.71,48677.34,27480.63,Laptop,Electronics,CUST1157,Corporate,West,Ahmedabad,2,Cancelled,January,Q1,2025,Profit
+TXN100715,1/10/2025,124875.45,84526.33,19823.43,40349.12,20525.69,Smartphone,Electronics,CUST1101,Consumer,West,Mumbai,5,Completed,January,Q1,2025,Profit
+TXN100519,1/12/2025,145626.76,98980.82,13984.11,46645.94,32661.83,Printer,Electronics,CUST1187,Consumer,West,Pune,10,Completed,January,Q1,2025,Profit
+TXN100682,1/12/2025,505474.41,318619.09,75121.87,186855.32,111733.45,Laptop,Electronics,CUST1138,Consumer,West,Ahmedabad,8,Completed,January,Q1,2025,Profit
+TXN100555,1/13/2025,82901.64,63951.3,11011.98,18950.34,7938.36,Smartphone,Electronics,CUST1167,Corporate,West,Ahmedabad,3,Pending,January,Q1,2025,Profit
+TXN100379,1/13/2025,29826.22,17743.06,3913.08,12083.16,8170.08,Monitor,Electronics,UNKNOWN,Consumer,North,Delhi,2,Completed,January,Q1,2025,Profit
+TXN100152,1/13/2025,47977.43,37376.67,5302.18,10600.76,5298.58,Tablet,Electronics,CUST1020,Consumer,West,Mumbai,2,Completed,January,Q1,2025,Profit
+TXN100051,1/14/2025,35940.9,23550.05,4203.28,12390.85,8187.57,Smartwatch,Accessories,CUST1194,Consumer,South,Bengaluru,4,Pending,January,Q1,2025,Profit
+TXN100676,1/14/2025,10149.15,6736.02,838.54,3413.13,2574.59,Backpack,Accessories,CUST1182,Consumer,South,Chennai,4,Completed,January,Q1,2025,Profit
+TXN100093,1/15/2025,116403.07,74894.2,18957.26,41508.87,22551.61,Smartphone,Electronics,CUST1156,Consumer,West,Ahmedabad,4,Pending,January,Q1,2025,Profit
+TXN100135,1/15/2025,12366.16,7474.3,1868.64,4891.86,3023.22,Headphones,Accessories,CUST1180,Consumer,South,Chennai,3,Completed,January,Q1,2025,Profit
+TXN100498,1/16/2025,14658.31,8411.45,1903.19,6246.86,4343.67,Printer,Electronics,CUST1057,Consumer,West,Mumbai,1,Completed,January,Q1,2025,Profit
+TXN100330,1/17/2025,13145.3,8862.84,997.31,4282.46,3285.15,Backpack,Accessories,CUST1146,Corporate,West,Surat,5,Completed,January,Q1,2025,Profit
+TXN100353,1/18/2025,4486.25,2834.4,608.61,1651.85,1043.24,Headphones,Accessories,CUST1096,Corporate,West,Pune,1,Returned,January,Q1,2025,Profit
+TXN100637,1/19/2025,99965.26,74140.34,9176.97,25824.92,16647.95,Smartphone,Electronics,CUST1046,Consumer,North,Delhi,4,Pending,January,Q1,2025,Profit
+TXN100567,1/19/2025,154144.52,110285.4,20425.62,43859.12,23433.5,Smartphone,Electronics,CUST1003,Corporate,North,Jaipur,6,Completed,January,Q1,2025,Profit
+TXN100384,1/20/2025,7539.89,4556.58,721.78,2983.31,2261.53,Keyboard,Accessories,CUST1160,Small Business,North,Delhi,4,Completed,January,Q1,2025,Profit
+TXN100672,1/20/2025,3642.15,2647.97,488.55,994.18,505.63,Keyboard,Accessories,CUST1019,Small Business,West,Pune,2,Returned,January,Q1,2025,Profit
+TXN100007,1/21/2025,49137.6,33290.8,4721.88,15846.8,11124.92,Tablet,Electronics,CUST1198,Corporate,North,Delhi,2,Completed,January,Q1,2025,Profit
+TXN100045,1/21/2025,10566.74,8153.32,745.78,2413.42,1667.64,Office Chair,Furniture,CUST1101,Consumer,West,Pune,1,Completed,January,Q1,2025,Profit
+TXN100026,1/22/2025,214649.24,130946.76,23217.5,83702.48,60484.98,Laptop,Electronics,CUST1017,Consumer,West,Mumbai,3,Completed,January,Q1,2025,Profit
+TXN100847,1/22/2025,33380.29,22643.44,5160.19,10736.85,5576.66,Monitor,Electronics,CUST1173,Corporate,North,Jaipur,2,Completed,January,Q1,2025,Profit
+TXN100308,1/22/2025,12553.17,7200.82,1419.82,5352.35,3932.53,Office Chair,Furniture,CUST1007,Consumer,West,Ahmedabad,1,Cancelled,January,Q1,2025,Profit
+TXN100748,1/23/2025,21133.61,15932.61,3596.74,5201,1604.26,Headphones,Accessories,CUST1090,Consumer,West,Pune,5,Cancelled,January,Q1,2025,Profit
+TXN100483,1/23/2025,126471.53,88992.54,13660.66,37478.99,23818.33,Smartphone,Electronics,CUST1076,Small Business,North,Delhi,5,Completed,January,Q1,2025,Profit
+TXN100581,1/25/2025,13210.48,8590.38,1757.04,4620.1,2863.06,Backpack,Accessories,CUST1139,Consumer,West,Surat,5,Completed,January,Q1,2025,Profit
+TXN100376,1/26/2025,15617.77,10786.67,2761.64,4831.1,2069.46,Smartwatch,Accessories,CUST1014,Consumer,West,Ahmedabad,2,Completed,January,Q1,2025,Profit
+TXN100317,1/27/2025,28239.66,15849.69,2778.94,12389.97,9611.03,Printer,Electronics,CUST1021,Corporate,West,Mumbai,2,Completed,January,Q1,2025,Profit
+TXN100110,1/28/2025,53200.17,35985.61,8517.92,17214.56,8696.64,Monitor,Electronics,CUST1137,Consumer,North,Delhi,3,Cancelled,January,Q1,2025,Profit
+TXN100165,1/28/2025,128526.03,80828.25,12674.9,47697.78,35022.88,Desk,Furniture,CUST1058,Corporate,East,Kolkata,8,Completed,January,Q1,2025,Profit
+TXN100697,1/28/2025,62991.83,40972.52,9436.27,22019.31,12583.04,Laptop,Electronics,CUST1198,Corporate,West,Ahmedabad,1,Completed,January,Q1,2025,Profit
+TXN100615,1/29/2025,192513.71,139048.05,18144.75,53465.66,35320.91,Laptop,Electronics,UNKNOWN,Consumer,West,Mumbai,3,Completed,January,Q1,2025,Profit
+TXN100150,1/29/2025,65859.33,46799.54,9072.68,19059.79,9987.11,Laptop,Electronics,CUST1169,Corporate,West,Pune,1,Completed,January,Q1,2025,Profit
+TXN100802,1/30/2025,205699.19,125941.36,28262.1,79757.83,51495.73,Laptop,Electronics,CUST1152,Consumer,West,Mumbai,3,Completed,January,Q1,2025,Profit
+TXN100508,2/2/2025,8640.71,5364.16,736.37,3276.55,2540.18,Headphones,Accessories,CUST1020,Consumer,West,Ahmedabad,2,Completed,February,Q1,2025,Profit
+TXN100115,2/2/2025,9688.41,6557.47,1037.58,3130.94,2093.36,Headphones,Accessories,CUST1109,Consumer,South,Bengaluru,2,Cancelled,February,Q1,2025,Profit
+TXN100306,2/2/2025,180912.53,120268.55,20937.96,60643.98,39706.02,Tablet,Electronics,CUST1019,Consumer,West,Mumbai,8,Completed,February,Q1,2025,Profit
+TXN100815,2/3/2025,5147.98,2752.35,373.88,2395.63,2021.75,Backpack,Accessories,CUST1016,Consumer,North,Jaipur,2,Completed,February,Q1,2025,Profit
+TXN100762,2/3/2025,4501.56,2614.25,517.91,1887.31,1369.4,Headphones,Accessories,CUST1093,Corporate,West,Surat,1,Pending,February,Q1,2025,Profit
+TXN100059,2/4/2025,74709.26,43196.34,9642.51,31512.92,21870.41,Monitor,Electronics,CUST1142,Consumer,North,Jaipur,5,Completed,February,Q1,2025,Profit
+TXN100524,2/4/2025,89196.78,52920.34,9364.27,36276.44,26912.17,Smartphone,Electronics,CUST1053,Consumer,North,Delhi,3,Cancelled,February,Q1,2025,Profit
+TXN100124,2/4/2025,68026.73,47300.28,8746.4,20726.45,11980.05,Tablet,Electronics,CUST1067,Consumer,West,Pune,3,Completed,February,Q1,2025,Profit
+TXN100327,2/4/2025,176312.31,105845.31,14914.42,70467,55552.58,Smartphone,Electronics,CUST1186,Consumer,West,Ahmedabad,6,Completed,February,Q1,2025,Profit
+TXN100709,2/4/2025,138494.75,74736.9,22302.35,63757.85,41455.5,Laptop,Electronics,CUST1081,Consumer,West,Pune,2,Completed,February,Q1,2025,Profit
+TXN100382,2/5/2025,82363.02,60665.45,10660.46,21697.57,11037.11,Desk,Furniture,CUST1108,Corporate,West,Unknown,5,Pending,February,Q1,2025,Profit
+TXN100151,2/5/2025,118975.05,87624.76,8472.63,31350.29,22877.66,Tablet,Electronics,CUST1181,Consumer,North,Delhi,5,Completed,February,Q1,2025,Profit
+TXN100546,2/5/2025,9836.84,7401.46,1051.95,2435.38,1383.43,Headphones,Accessories,CUST1127,Consumer,North,Delhi,2,Completed,February,Q1,2025,Profit
+TXN100268,2/6/2025,14282.44,10704.85,1081.31,3577.59,2496.28,Printer,Electronics,CUST1076,Consumer,West,Ahmedabad,1,Completed,February,Q1,2025,Profit
+TXN100552,2/6/2025,290605.91,171641.35,23659.16,118964.56,95305.4,Laptop,Electronics,CUST1170,Consumer,West,Ahmedabad,5,Completed,February,Q1,2025,Profit
+TXN100338,2/6/2025,359161.29,194711,40375.38,164450.29,124074.91,Laptop,Electronics,CUST1108,Corporate,East,Kolkata,5,Completed,February,Q1,2025,Profit
+TXN100311,2/7/2025,30385.43,22772.83,3685.57,7612.6,3927.03,Smartphone,Electronics,CUST1030,Consumer,South,Bengaluru,1,Completed,February,Q1,2025,Profit
+TXN100373,2/8/2025,233569.85,175861.72,36748.07,57708.13,20960.06,Laptop,Electronics,CUST1017,Small Business,North,Jaipur,4,Completed,February,Q1,2025,Profit
+TXN100477,2/8/2025,118622.23,71292.99,19338.02,47329.24,27991.22,Smartphone,Electronics,CUST1192,Small Business,West,Ahmedabad,4,Completed,February,Q1,2025,Profit
+TXN100586,2/8/2025,4194.94,3009.46,579.62,1185.48,605.86,Mouse,Accessories,CUST1170,Consumer,North,Jaipur,4,Completed,February,Q1,2025,Profit
+TXN100766,2/8/2025,32069.99,17905.89,4402.64,14164.1,9761.46,Monitor,Electronics,CUST1057,Consumer,West,Pune,2,Completed,February,Q1,2025,Profit
+TXN100638,2/8/2025,30214.61,19790.38,2893.98,10424.23,7530.25,Monitor,Electronics,CUST1024,Consumer,West,Pune,2,Completed,February,Q1,2025,Profit
+TXN100250,2/8/2025,25295.89,16697.6,1939.42,8598.29,6658.87,Office Chair,Furniture,CUST1026,Small Business,South,Bengaluru,2,Completed,February,Q1,2025,Profit
+TXN100700,2/10/2025,14778.98,8713.59,1702.03,6065.39,4363.36,Headphones,Accessories,CUST1138,Corporate,South,Bengaluru,3,Cancelled,February,Q1,2025,Profit
+TXN100091,2/10/2025,102077.88,78819.79,12240.86,23258.09,11017.23,Smartphone,Electronics,CUST1195,Consumer,North,Jaipur,4,Completed,February,Q1,2025,Profit
+TXN100109,2/10/2025,3853.5,2189.4,658.77,1664.1,1005.33,Keyboard,Accessories,CUST1118,Consumer,South,Bengaluru,2,Completed,February,Q1,2025,Profit
+TXN100589,2/11/2025,47830.88,27504.94,4107.07,20325.94,16218.87,Printer,Electronics,CUST1028,Consumer,West,Ahmedabad,3,Completed,February,Q1,2025,Profit
+TXN100137,2/11/2025,166446.77,114127.95,23723.48,52318.82,28595.34,Smartphone,Electronics,CUST1200,Consumer,South,Chennai,6,Cancelled,February,Q1,2025,Profit
+TXN100821,2/12/2025,14209.53,9493.04,2148.75,4716.49,2567.74,Headphones,Accessories,CUST1003,Consumer,West,Mumbai,3,Completed,February,Q1,2025,Profit
+TXN100516,2/12/2025,29532.24,21600.42,2903.69,7931.82,5028.13,Smartphone,Electronics,CUST1106,Consumer,West,Pune,1,Completed,February,Q1,2025,Profit
+TXN100517,2/13/2025,9125.65,5568.66,1575.23,3556.99,1981.76,Headphones,Accessories,CUST1135,Consumer,North,Jaipur,2,Cancelled,February,Q1,2025,Profit
+TXN100167,2/13/2025,140939.22,93853.95,17980.04,47085.27,29105.23,Laptop,Electronics,CUST1098,Consumer,West,Ahmedabad,2,Completed,February,Q1,2025,Profit
+TXN100071,2/13/2025,23545.88,13595.39,1861.58,9950.49,8088.91,Headphones,Accessories,CUST1022,Consumer,West,Pune,5,Completed,February,Q1,2025,Profit
+TXN100657,2/13/2025,9298.56,5681.44,1600.48,3617.12,2016.64,Headphones,Accessories,CUST1183,Consumer,West,Surat,2,Completed,February,Q1,2025,Profit
+TXN100161,2/14/2025,76842.08,40098.32,5863.11,36743.76,30880.65,Office Chair,Furniture,CUST1108,Small Business,West,Ahmedabad,6,Completed,February,Q1,2025,Profit
+TXN100708,2/15/2025,82763.54,47733.96,6981.08,35029.58,28048.5,Smartphone,Electronics,CUST1134,Consumer,West,Mumbai,3,Completed,February,Q1,2025,Profit
+TXN100334,2/15/2025,8648.12,5119.89,1481.8,3528.23,2046.43,Smartwatch,Accessories,CUST1200,Consumer,West,Pune,1,Completed,February,Q1,2025,Profit
+TXN100422,2/16/2025,20614.97,15707.93,2976.22,4907.04,1930.82,Backpack,Accessories,CUST1092,Consumer,South,Chennai,8,Completed,February,Q1,2025,Profit
+TXN100471,2/16/2025,24279.64,17103.58,1981.08,7176.06,5194.98,Headphones,Accessories,CUST1191,Consumer,North,Delhi,5,Pending,February,Q1,2025,Profit
+TXN100673,2/16/2025,18012.27,10341.78,1667.47,7670.49,6003.02,Unknown,Accessories,CUST1079,Consumer,West,Ahmedabad,2,Completed,February,Q1,2025,Profit
+TXN100116,2/17/2025,62244.6,36035.31,6787.75,26209.29,19421.54,Laptop,Electronics,CUST1049,Small Business,West,Ahmedabad,1,Completed,February,Q1,2025,Profit
+TXN100453,2/17/2025,1991.27,1102.04,265.08,889.23,624.15,Mouse,Accessories,CUST1019,Consumer,West,Mumbai,2,Completed,February,Q1,2025,Profit
+TXN100030,2/18/2025,34220.55,24147.92,4381.64,10072.63,5690.99,Office Chair,Furniture,CUST1113,Small Business,West,Mumbai,3,Completed,February,Q1,2025,Profit
+TXN100329,2/18/2025,315571.96,194577.36,43560.91,120994.6,77433.69,Laptop,Electronics,CUST1133,Corporate,North,Delhi,5,Completed,February,Q1,2025,Profit
+TXN100062,2/19/2025,139836.92,90188.17,18901.04,49648.75,30747.71,Smartphone,Electronics,CUST1056,Consumer,North,Jaipur,5,Pending,February,Q1,2025,Profit
+TXN100841,2/20/2025,25971.44,13567.28,3609.99,12404.16,8794.17,Smartphone,Electronics,CUST1032,Consumer,West,Ahmedabad,1,Completed,February,Q1,2025,Profit
+TXN100395,2/20/2025,13356.11,9818.25,1794.16,3537.86,1743.7,Printer,Electronics,CUST1034,Consumer,West,Mumbai,1,Completed,February,Q1,2025,Profit
+TXN100805,2/20/2025,12221.06,8174.64,1528.41,4046.42,2518.01,Headphones,Accessories,CUST1165,Small Business,West,Mumbai,3,Pending,February,Q1,2025,Profit
+TXN100037,2/20/2025,30476.1,19709.87,5132.2,10766.23,5634.03,Smartphone,Electronics,CUST1114,Corporate,South,Hyderabad,1,Pending,February,Q1,2025,Profit
+TXN100757,2/20/2025,78339.26,53492.19,11249.2,24847.07,13597.87,Desk,Furniture,CUST1131,Consumer,West,Ahmedabad,4,Completed,February,Q1,2025,Profit
+TXN100314,2/20/2025,27123.54,17378.11,4055,9745.43,5690.43,Smartphone,Electronics,CUST1107,Consumer,West,Mumbai,1,Completed,February,Q1,2025,Profit
+TXN100576,2/21/2025,35204.22,21489.48,2548.12,13714.74,11166.62,Desk,Furniture,CUST1111,Consumer,West,Surat,2,Unknown,February,Q1,2025,Profit
+TXN100143,2/21/2025,89001.16,65065.2,12657.09,23935.96,11278.87,Smartphone,Electronics,CUST1015,Corporate,East,Kolkata,3,Completed,February,Q1,2025,Profit
+TXN100198,2/21/2025,139928.05,92102.86,23337.89,47825.19,24487.3,Laptop,Electronics,CUST1039,Corporate,West,Mumbai,2,Completed,February,Q1,2025,Profit
+TXN100216,2/22/2025,27799.67,18571.24,3843.93,9228.43,5384.5,Headphones,Accessories,CUST1085,Small Business,West,Pune,6,Completed,February,Q1,2025,Profit
+TXN100817,2/22/2025,349019.17,198718.15,28661.08,150301.02,121639.94,Laptop,Electronics,CUST1041,Corporate,South,Chennai,5,Completed,February,Q1,2025,Profit
+TXN100413,2/22/2025,2287.79,1777.84,216.95,509.95,293,Mouse,Accessories,CUST1129,Corporate,North,Delhi,2,Completed,February,Q1,2025,Profit
+TXN100582,2/22/2025,41404.98,28324.02,3012.14,13080.96,10068.82,Tablet,Electronics,CUST1008,Corporate,West,Pune,2,Completed,February,Q1,2025,Profit
+TXN100749,2/22/2025,53820.26,33417.3,5201.85,20402.96,15201.11,Smartphone,Electronics,CUST1072,Corporate,West,Pune,2,Cancelled,February,Q1,2025,Profit
+TXN100086,2/22/2025,219479.18,162419.81,30543.63,57059.37,26515.74,Smartphone,Electronics,CUST1126,Consumer,South,Chennai,8,Completed,February,Q1,2025,Profit
+TXN100055,2/22/2025,135605,78209.64,23662.49,57395.36,33732.87,Laptop,Electronics,CUST1171,Consumer,West,Surat,2,Pending,February,Q1,2025,Profit
+TXN100410,2/23/2025,285128.82,210336.22,23953.86,74792.6,50838.74,Laptop,Electronics,CUST1015,Consumer,West,Pune,4,Completed,February,Q1,2025,Profit
+TXN100065,2/23/2025,21034.58,15907.66,1475.01,5126.92,3651.91,Headphones,Accessories,CUST1077,Consumer,South,Chennai,5,Completed,February,Q1,2025,Profit
+TXN100774,2/23/2025,2728.6,1793.1,438.57,935.5,496.93,Backpack,Accessories,CUST1048,Consumer,North,Jaipur,1,Pending,February,Q1,2025,Profit
+TXN100679,2/23/2025,45965.12,35240.79,4572.85,10724.33,6151.48,Tablet,Electronics,CUST1146,Consumer,West,Ahmedabad,2,Pending,February,Q1,2025,Profit
+TXN100210,2/23/2025,45988.18,25594.44,5675.63,20393.74,14718.11,Tablet,Electronics,CUST1187,Small Business,West,Ahmedabad,2,Completed,February,Q1,2025,Profit
+TXN100356,2/23/2025,31736.44,22884.48,5415.7,8851.96,3436.26,Monitor,Electronics,CUST1155,Consumer,South,Bengaluru,2,Completed,February,Q1,2025,Profit
+TXN100278,2/23/2025,93447.53,65045.05,12966.14,28402.48,15436.34,Printer,Electronics,CUST1022,Consumer,East,Kolkata,6,Completed,February,Q1,2025,Profit
+TXN100039,2/24/2025,5539.15,4054.18,691.23,1484.97,793.74,Mouse,Accessories,CUST1165,Corporate,North,Jaipur,5,Completed,February,Q1,2025,Profit
+TXN100585,2/26/2025,49637.62,35300.26,6890.77,14337.36,7446.59,Smartphone,Electronics,CUST1133,Corporate,West,Mumbai,2,Completed,February,Q1,2025,Profit
+TXN100403,2/27/2025,22709.31,16346.87,2154.89,6362.44,4207.55,Office Chair,Furniture,CUST1040,Corporate,North,Jaipur,2,Completed,February,Q1,2025,Profit
+TXN100656,2/27/2025,10906.99,8086.44,951.39,2820.55,1869.16,Office Chair,Furniture,CUST1176,Small Business,North,Jaipur,1,Returned,February,Q1,2025,Profit
+TXN100645,2/27/2025,5905.69,3762.02,546.39,2143.67,1597.28,Mouse,Accessories,CUST1149,Corporate,West,Ahmedabad,6,Completed,February,Q1,2025,Profit
+TXN100445,2/27/2025,47952.69,35291.35,4541.71,12661.34,8119.63,Tablet,Electronics,CUST1051,Small Business,South,Bengaluru,2,Completed,February,Q1,2025,Profit
+TXN100357,2/27/2025,59370.34,32809.62,9202.69,26560.72,17358.03,Smartphone,Electronics,CUST1085,Corporate,West,Mumbai,2,Completed,February,Q1,2025,Profit
+TXN100437,2/27/2025,23279.31,13583.06,3160.89,9696.25,6535.36,Tablet,Electronics,CUST1038,Consumer,North,Delhi,1,Completed,February,Q1,2025,Profit
+TXN100031,2/28/2025,23910.23,18315,2655.57,5595.23,2939.66,Tablet,Electronics,CUST1110,Consumer,North,Unknown,1,Completed,February,Q1,2025,Profit
+TXN100263,3/1/2025,27083.71,16072.8,2947.67,11010.91,8063.24,Smartwatch,Accessories,CUST1071,Corporate,West,Pune,3,Cancelled,March,Q1,2025,Profit
+TXN100414,3/1/2025,276243.76,181847.58,45883.55,94396.18,48512.63,Smartphone,Electronics,CUST1046,Consumer,West,Ahmedabad,10,Returned,March,Q1,2025,Profit
+TXN100839,3/2/2025,18308.6,12445.83,2957.53,5862.77,2905.24,Smartwatch,Accessories,CUST1135,Consumer,West,Pune,2,Completed,March,Q1,2025,Profit
+TXN100162,3/3/2025,466205.96,249342.9,47105.72,216863.06,169757.34,Laptop,Electronics,CUST1163,Corporate,South,Bengaluru,8,Completed,March,Q1,2025,Profit
+TXN100117,3/3/2025,5103.41,3440.37,739.05,1663.04,923.99,Keyboard,Accessories,CUST1058,Consumer,North,Jaipur,3,Completed,March,Q1,2025,Profit
+TXN100562,3/3/2025,122324.32,91523.05,9767.87,30801.27,21033.4,Laptop,Electronics,CUST1052,Consumer,West,Ahmedabad,2,Completed,March,Q1,2025,Profit
+TXN100102,3/4/2025,3424.5,2358.66,363.41,1065.84,702.43,Keyboard,Accessories,CUST1199,Small Business,West,Mumbai,2,Completed,March,Q1,2025,Profit
+TXN100139,3/4/2025,57388.89,44114.29,8672.95,13274.6,4601.65,Laptop,Electronics,CUST1110,Consumer,North,Jaipur,1,Completed,March,Q1,2025,Profit
+TXN100398,3/4/2025,165147.91,128318.19,29313.88,36829.72,7515.84,Desk,Furniture,CUST1128,Consumer,West,Mumbai,10,Pending,March,Q1,2025,Profit
+TXN100732,3/4/2025,59646.15,43611.28,9857.27,16034.87,6177.6,Tablet,Electronics,CUST1180,Corporate,South,Bengaluru,3,Completed,March,Q1,2025,Profit
+TXN100513,3/6/2025,79433.25,52201.38,7822.54,27231.87,19409.33,Desk,Furniture,CUST1122,Small Business,West,Pune,4,Completed,March,Q1,2025,Profit
+TXN100724,3/6/2025,3906.79,2470.26,439.4,1436.53,997.13,Keyboard,Accessories,CUST1179,Consumer,West,Mumbai,2,Completed,March,Q1,2025,Profit
+TXN100095,3/6/2025,130225.73,69124.98,11240.79,61100.75,49859.96,Laptop,Electronics,CUST1043,Small Business,West,Pune,2,Returned,March,Q1,2025,Profit
+TXN100159,3/7/2025,7655.66,5369.64,1318.75,2286.02,967.27,Backpack,Accessories,CUST1147,Corporate,West,Ahmedabad,3,Pending,March,Q1,2025,Profit
+TXN100785,3/7/2025,52653.27,36735.82,7646.65,15917.45,8270.8,Smartphone,Electronics,CUST1086,Consumer,West,Mumbai,2,Completed,March,Q1,2025,Profit
+TXN100299,3/9/2025,550797.72,389605.14,88630.89,161192.58,72561.69,Laptop,Electronics,CUST1196,Corporate,West,Pune,8,Completed,March,Q1,2025,Profit
+TXN100814,3/10/2025,32653.5,21877.51,2432.84,10775.99,8343.15,Desk,Furniture,CUST1046,Consumer,West,Mumbai,2,Completed,March,Q1,2025,Profit
+TXN100459,3/10/2025,6696.11,3713.4,939.02,2982.71,2043.69,Keyboard,Accessories,UNKNOWN,Consumer,South,Bengaluru,4,Completed,March,Q1,2025,Profit
+TXN100579,3/10/2025,270596.03,174330.28,29516.95,96265.75,66748.8,Smartphone,Electronics,CUST1090,Consumer,North,Delhi,10,Completed,March,Q1,2025,Profit
+TXN100470,3/10/2025,26691.22,19684.11,3480,7007.11,3527.11,Printer,Electronics,CUST1165,Small Business,West,Pune,2,Completed,March,Q1,2025,Profit
+TXN100628,3/11/2025,87412.4,63977.48,8625.35,23434.92,14809.57,Smartphone,Electronics,CUST1039,Small Business,South,Bengaluru,3,Completed,March,Q1,2025,Profit
+TXN100765,3/13/2025,68429.06,44313.33,8091.55,24115.73,16024.18,Office Chair,Furniture,CUST1180,Consumer,South,Chennai,6,Completed,March,Q1,2025,Profit
+TXN100005,3/13/2025,118136.58,88784.02,15983.31,29352.56,13369.25,Laptop,Electronics,CUST1067,Consumer,West,Mumbai,2,Completed,March,Q1,2025,Profit
+TXN100603,3/15/2025,67345.35,39583.71,5399.62,27761.64,22362.02,Printer,Electronics,CUST1003,Consumer,North,Delhi,5,Completed,March,Q1,2025,Profit
+TXN100786,3/16/2025,4513.69,3492.36,458.09,1021.33,563.24,Backpack,Accessories,CUST1128,Corporate,North,Delhi,2,Completed,March,Q1,2025,Profit
+TXN100282,3/16/2025,6958.19,4375.08,1061.84,2583.11,1521.27,Backpack,Accessories,CUST1029,Corporate,North,Delhi,3,Completed,March,Q1,2025,Profit
+TXN100536,3/16/2025,77307.28,47331.17,8812.89,29976.11,21163.22,Smartphone,Electronics,CUST1163,Consumer,West,Ahmedabad,3,Completed,March,Q1,2025,Profit
+TXN100463,3/17/2025,13850.17,9492.6,1576.3,4357.57,2781.27,Printer,Electronics,CUST1126,Consumer,West,Mumbai,1,Completed,March,Q1,2025,Profit
+TXN100571,3/17/2025,21159.76,15534.95,1679.65,5624.81,3945.16,Headphones,Accessories,CUST1064,Consumer,South,Bengaluru,5,Pending,March,Q1,2025,Profit
+TXN100601,3/17/2025,24162.5,14258.38,3869.97,9904.12,6034.15,Tablet,Electronics,CUST1196,Consumer,North,Delhi,1,Returned,March,Q1,2025,Profit
+TXN100755,3/19/2025,4475.92,3383.53,373.62,1092.39,718.77,Mouse,Accessories,CUST1152,Consumer,South,Bengaluru,4,Completed,March,Q1,2025,Profit
+TXN100664,3/21/2025,175091.1,103213.97,20374.69,71877.13,51502.44,Desk,Furniture,CUST1056,Consumer,South,Chennai,10,Completed,March,Q1,2025,Profit
+TXN100104,3/22/2025,39139.2,25634.66,4802.77,13504.54,8701.77,Desk,Furniture,CUST1154,Consumer,North,Delhi,2,Completed,March,Q1,2025,Profit
+TXN100061,3/22/2025,1938.68,1358.79,146.11,579.89,433.78,Mouse,Accessories,CUST1037,Consumer,South,Bengaluru,2,Completed,March,Q1,2025,Profit
+TXN100806,3/22/2025,14506.36,10317.44,2074.66,4188.92,2114.26,Headphones,Accessories,CUST1033,Consumer,West,Ahmedabad,3,Completed,March,Q1,2025,Profit
+TXN100204,3/22/2025,67074.19,49179.02,9822.15,17895.17,8073.02,Office Chair,Furniture,CUST1065,Consumer,South,Bengaluru,5,Completed,March,Q1,2025,Profit
+TXN100711,3/23/2025,71061.12,45116.42,6090.87,25944.7,19853.83,Laptop,Electronics,CUST1028,Corporate,North,Jaipur,1,Completed,March,Q1,2025,Profit
+TXN100752,3/24/2025,257024.4,136537.6,26744.95,120486.8,93741.85,Laptop,Electronics,CUST1175,Consumer,West,Surat,4,Completed,March,Q1,2025,Profit
+TXN100563,3/25/2025,27104.08,16848.94,4808.54,10255.14,5446.6,Smartphone,Electronics,CUST1003,Corporate,West,Pune,1,Returned,March,Q1,2025,Profit
+TXN100754,3/26/2025,67024.13,36684.01,9767.03,30340.12,20573.09,Desk,Furniture,CUST1101,Small Business,North,Delhi,4,Completed,March,Q1,2025,Profit
+TXN100466,3/27/2025,9571.65,5342.33,1396.84,4229.32,2832.48,Keyboard,Accessories,CUST1029,Small Business,West,Mumbai,5,Cancelled,March,Q1,2025,Profit
+TXN100157,3/27/2025,148957.37,105869.98,15333.49,43087.39,27753.9,Smartphone,Electronics,CUST1198,Consumer,West,Mumbai,5,Completed,March,Q1,2025,Profit
+TXN100012,3/29/2025,61275.41,42769.54,4881.54,18505.87,13624.33,Tablet,Electronics,CUST1073,Consumer,West,Pune,3,Completed,March,Q1,2025,Profit
+TXN100049,3/30/2025,222613.76,165653.82,36263.88,56959.94,20696.06,Smartphone,Electronics,CUST1103,Small Business,South,Hyderabad,8,Completed,March,Q1,2025,Profit
+TXN100454,3/30/2025,39426.41,22513.92,2857.71,16912.49,14054.78,Office Chair,Furniture,CUST1089,Consumer,North,Delhi,3,Pending,March,Q1,2025,Profit
+TXN100530,3/31/2025,302754.52,221079.93,31779.99,81674.59,49894.6,Smartphone,Electronics,CUST1090,Consumer,East,Kolkata,10,Completed,March,Q1,2025,Profit
+TXN100692,3/31/2025,14976.14,11583.15,2408.41,3392.99,984.58,Printer,Electronics,CUST1157,Consumer,North,Delhi,1,Completed,March,Q1,2025,Profit
+TXN100527,3/31/2025,7721.92,4337.82,996.96,3384.1,2387.14,Keyboard,Accessories,CUST1052,Consumer,West,Mumbai,4,Completed,March,Q1,2025,Profit
+TXN100634,4/1/2025,14997.17,11500.03,1553.12,3497.14,1944.02,Monitor,Electronics,CUST1127,Consumer,West,Pune,1,Completed,April,Q2,2025,Profit
+TXN100389,4/2/2025,49762.9,37869.48,4653.17,11893.42,7240.25,Smartphone,Electronics,CUST1018,Consumer,West,Mumbai,2,Completed,April,Q2,2025,Profit
+TXN100436,4/2/2025,12300.55,8838.68,1569.23,3461.87,1892.64,Office Chair,Furniture,CUST1039,Consumer,North,Delhi,1,Completed,April,Q2,2025,Profit
+TXN100844,4/2/2025,17497.98,13398.05,2152.22,4099.93,1947.71,Headphones,Accessories,CUST1155,Consumer,North,Delhi,4,Completed,April,Q2,2025,Profit
+TXN100057,4/2/2025,7015.21,3969.89,661.21,3045.32,2384.11,Backpack,Accessories,CUST1003,Corporate,North,Delhi,3,Completed,April,Q2,2025,Profit
+TXN100529,4/3/2025,196930.38,125458.83,19255.53,71471.55,52216.02,Tablet,Electronics,CUST1168,Corporate,West,Ahmedabad,8,Completed,April,Q2,2025,Profit
+TXN100837,4/3/2025,111432.74,74189.75,8965.46,37242.99,28277.53,Printer,Electronics,CUST1114,Small Business,West,Pune,50,Completed,April,Q2,2025,Profit
+TXN100472,4/4/2025,26489.16,17989.38,2746.74,8499.78,5753.04,Printer,Electronics,CUST1079,Consumer,South,Hyderabad,2,Completed,April,Q2,2025,Profit
+TXN100828,4/5/2025,24593.48,15639.05,3927.31,8954.43,5027.12,Headphones,Accessories,CUST1038,Consumer,West,Ahmedabad,6,Cancelled,April,Q2,2025,Profit
+TXN100764,4/5/2025,12304.7,8849.55,2123.41,3455.15,1331.74,Headphones,Accessories,CUST1056,Corporate,West,Ahmedabad,3,Cancelled,April,Q2,2025,Profit
+TXN100343,4/5/2025,175450.34,112199.06,18196.13,63251.28,45055.15,Laptop,Electronics,CUST1106,Consumer,North,Delhi,3,Pending,April,Q2,2025,Profit
+TXN100520,4/5/2025,72593.35,42568.15,11693.15,30025.2,18332.05,Monitor,Electronics,CUST1026,Consumer,South,Bengaluru,5,Completed,April,Q2,2025,Profit
+TXN100494,4/6/2025,37460.44,27469.15,4937.47,9991.29,5053.82,Smartwatch,Accessories,CUST1006,Small Business,South,Bengaluru,4,Completed,April,Q2,2025,Profit
+TXN100450,4/6/2025,25930.16,14900.19,3932.3,11029.97,7097.67,Smartwatch,Accessories,CUST1170,Consumer,West,Ahmedabad,3,Completed,April,Q2,2025,Profit
+TXN100547,4/6/2025,213272.64,125469.88,26008.03,87802.76,61794.73,Laptop,Electronics,CUST1057,Consumer,South,Hyderabad,3,Completed,April,Q2,2025,Profit
+TXN100193,4/6/2025,71990.49,45768.96,11285.82,26221.53,14935.71,Laptop,Electronics,CUST1055,Consumer,West,Mumbai,1,Completed,April,Q2,2025,Profit
+TXN100144,4/6/2025,131562.87,81707.08,11578.22,49855.79,38277.57,Unknown,Electronics,CUST1172,Consumer,North,Delhi,2,Completed,April,Q2,2025,Profit
+TXN100321,4/7/2025,12560.57,7245.77,1701.75,5314.8,3613.05,Office Chair,Furniture,CUST1181,Consumer,West,Mumbai,1,Completed,April,Q2,2025,Profit
+TXN100234,4/7/2025,3590.31,2400.73,609.61,1189.58,579.97,Mouse,Accessories,CUST1083,Consumer,South,Bengaluru,3,Cancelled,April,Q2,2025,Profit
+TXN100738,4/8/2025,22536.91,12074.77,2602.28,10462.14,7859.86,Tablet,Electronics,CUST1075,Consumer,North,Jaipur,1,Completed,April,Q2,2025,Profit
+TXN100230,4/8/2025,95749.63,61090.77,15354.17,34658.86,19304.69,Tablet,Electronics,CUST1148,Consumer,South,Bengaluru,4,Completed,April,Q2,2025,Profit
+TXN100793,4/8/2025,19479.04,13981.23,1723.96,5497.81,3773.85,Headphones,Accessories,CUST1026,Small Business,South,Bengaluru,4,Pending,April,Q2,2025,Profit
+TXN100289,4/9/2025,39798.59,22976.75,5963.02,16821.84,10858.82,Office Chair,Furniture,CUST1160,Small Business,West,Mumbai,3,Completed,April,Q2,2025,Profit
+TXN100336,4/9/2025,100137.26,71270.77,10165.65,28866.49,18700.84,Desk,Furniture,CUST1163,Small Business,West,Ahmedabad,6,Pending,April,Q2,2025,Profit
+TXN100580,4/9/2025,15041.17,7977.04,2041.76,7064.13,5022.37,Printer,Electronics,CUST1095,Consumer,West,Mumbai,1,Pending,April,Q2,2025,Profit
+TXN100120,4/9/2025,123593.46,77100.34,10723.68,46493.12,35769.44,Tablet,Electronics,CUST1104,Corporate,North,Jaipur,6,Returned,April,Q2,2025,Profit
+TXN100344,4/9/2025,56634.87,44054.05,8102.31,12580.82,4478.51,Smartphone,Electronics,CUST1063,Consumer,West,Mumbai,2,Completed,April,Q2,2025,Profit
+TXN100272,4/9/2025,12301.01,8187.85,1917.49,4113.16,2195.67,Headphones,Accessories,CUST1051,Small Business,West,Mumbai,3,Completed,April,Q2,2025,Profit
+TXN100545,4/9/2025,53181.03,35424.05,4377.48,17756.98,13379.5,Smartphone,Electronics,CUST1190,Small Business,West,Pune,2,Completed,April,Q2,2025,Profit
+TXN100257,4/9/2025,38346.86,24914.45,2735.33,13432.41,10697.08,Office Chair,Furniture,CUST1101,Consumer,North,Jaipur,3,Completed,April,Q2,2025,Profit
+TXN100740,4/9/2025,4955.95,2617.13,863.12,2338.82,1475.7,Keyboard,Accessories,CUST1150,Consumer,West,Mumbai,3,Completed,April,Q2,2025,Profit
+TXN100488,4/10/2025,299167.18,221989.57,21377.04,77177.61,55800.57,Laptop,Electronics,CUST1065,Consumer,East,Kolkata,5,Completed,April,Q2,2025,Profit
+TXN100478,4/10/2025,41039.34,21342.88,7003.37,19696.46,12693.09,Tablet,Electronics,CUST1022,Consumer,West,Ahmedabad,2,Pending,April,Q2,2025,Profit
+TXN100569,4/10/2025,99977.11,63585.87,13090.78,36391.24,23300.46,Smartphone,Electronics,CUST1045,Consumer,South,Hyderabad,4,Completed,April,Q2,2025,Profit
+TXN100013,4/10/2025,30839.31,23489.61,4976.48,7349.7,2373.22,Monitor,Electronics,CUST1078,Consumer,North,Delhi,2,Returned,April,Q2,2025,Profit
+TXN100126,4/11/2025,95701.91,64850.08,14750.45,30851.83,16101.38,Monitor,Electronics,CUST1131,Small Business,West,Ahmedabad,6,Completed,April,Q2,2025,Profit
+TXN100202,4/11/2025,381036.84,229948.53,58101.86,151088.31,92986.45,Laptop,Electronics,CUST1029,Consumer,North,Delhi,6,Completed,April,Q2,2025,Profit
+TXN100510,4/11/2025,23116.32,13978.77,2105.69,9137.55,7031.86,Headphones,Accessories,CUST1019,Consumer,West,Ahmedabad,5,Completed,April,Q2,2025,Profit
+TXN100411,4/11/2025,176440.72,110192.01,26498.45,66248.71,39750.26,Laptop,Electronics,CUST1079,Small Business,South,Chennai,3,Completed,April,Q2,2025,Profit
+TXN100787,4/13/2025,206181.84,150776.51,17348.91,55405.33,38056.42,Laptop,Electronics,CUST1107,Corporate,West,Ahmedabad,3,Completed,April,Q2,2025,Profit
+TXN100008,4/13/2025,23614.97,12621.49,3841.08,10993.48,7152.4,Tablet,Electronics,CUST1031,Small Business,West,Pune,1,Completed,April,Q2,2025,Profit
+TXN100417,4/13/2025,247989.86,160681.1,39087.15,87308.76,48221.61,Laptop,Electronics,CUST1200,Corporate,South,Bengaluru,4,Completed,April,Q2,2025,Profit
+TXN100001,4/13/2025,14116.88,7485.07,2229.55,6631.81,4402.26,Headphones,Accessories,CUST1056,Consumer,West,Ahmedabad,3,Completed,April,Q2,2025,Profit
+TXN100369,4/14/2025,117945.89,64535.06,15740.39,53410.83,37670.44,Tablet,Electronics,CUST1056,Consumer,West,Mumbai,5,Completed,April,Q2,2025,Profit
+TXN100284,4/14/2025,42379.3,26418.37,4198.53,15960.93,11762.4,Tablet,Electronics,CUST1089,Corporate,South,Bengaluru,2,Completed,April,Q2,2025,Profit
+TXN100739,4/15/2025,29157.74,19018.42,4353.94,10139.32,5785.38,Smartphone,Electronics,CUST1073,Consumer,West,Mumbai,1,Completed,April,Q2,2025,Profit
+TXN100532,4/15/2025,126534.11,79899.65,17605.35,46634.46,29029.11,Smartphone,Electronics,UNKNOWN,Consumer,West,Pune,5,Completed,April,Q2,2025,Profit
+TXN100429,4/16/2025,25644.82,15463.11,3120.74,10181.71,7060.97,Smartwatch,Accessories,CUST1030,Consumer,South,Chennai,3,Completed,April,Q2,2025,Profit
+TXN100066,4/16/2025,15059.04,10304.47,1484.5,4754.57,3270.07,Headphones,Accessories,CUST1088,Consumer,West,Ahmedabad,3,Completed,April,Q2,2025,Profit
+TXN100804,4/16/2025,29633.59,15881.12,4000.56,13752.47,9751.91,Monitor,Electronics,CUST1070,Consumer,West,Mumbai,2,Returned,April,Q2,2025,Profit
+TXN100004,4/17/2025,1086.12,715.19,105,370.93,265.93,Mouse,Accessories,CUST1028,Consumer,West,Pune,1,Completed,April,Q2,2025,Profit
+TXN100415,4/18/2025,8976.32,6673.76,1213.18,2302.56,1089.38,Headphones,Accessories,CUST1161,Consumer,West,Mumbai,2,Completed,April,Q2,2025,Profit
+TXN100166,4/18/2025,2402.96,1442.4,418.53,960.56,542.03,Backpack,Accessories,CUST1189,Corporate,West,Ahmedabad,1,Returned,April,Q2,2025,Profit
+TXN100587,4/19/2025,86384.63,62471.65,12729.68,23912.98,11183.3,Smartphone,Electronics,CUST1150,Corporate,West,Ahmedabad,3,Pending,April,Q2,2025,Profit
+TXN100823,4/21/2025,12156.04,8729.6,1569.49,3426.44,1856.95,Office Chair,Furniture,CUST1053,Consumer,West,Mumbai,1,Pending,April,Q2,2025,Profit
+TXN100779,4/22/2025,63496.77,43940.63,6095.5,19556.14,13460.64,Office Chair,Furniture,CUST1159,Consumer,West,Unknown,5,Completed,April,Q2,2025,Profit
+TXN100288,4/22/2025,31737.73,22876.5,4404.32,8861.23,4456.91,Headphones,Accessories,CUST1028,Consumer,North,Delhi,8,Completed,April,Q2,2025,Profit
+TXN100262,4/22/2025,144237.19,80560.26,20878.4,63676.93,42798.53,Laptop,Electronics,CUST1068,Corporate,South,Chennai,2,Completed,April,Q2,2025,Profit
+TXN100203,4/23/2025,18587.93,14079.51,2553.67,4508.42,1954.75,Desk,Furniture,CUST1084,Corporate,West,Mumbai,1,Pending,April,Q2,2025,Profit
+TXN100206,4/23/2025,34326.55,24891.42,4088.5,9435.13,5346.63,Desk,Furniture,CUST1195,Corporate,West,Pune,2,Pending,April,Q2,2025,Profit
+TXN100283,4/23/2025,27664.78,21413.84,2250.35,6250.94,4000.59,Smartphone,Electronics,CUST1156,Small Business,South,Hyderabad,1,Completed,April,Q2,2025,Profit
+TXN100196,4/23/2025,2566.47,1521.86,238.09,1044.61,806.52,Backpack,Accessories,CUST1049,Consumer,West,Mumbai,1,Completed,April,Q2,2025,Profit
+TXN100201,4/23/2025,203732.41,112005.31,22863.31,91727.1,68863.79,Laptop,Electronics,CUST1082,Consumer,West,Mumbai,3,Completed,April,Q2,2025,Profit
+TXN100362,4/24/2025,21326.85,16239.2,1637.88,5087.65,3449.77,Tablet,Electronics,CUST1144,Small Business,South,Chennai,1,Completed,April,Q2,2025,Profit
+TXN100535,4/24/2025,59443.22,36996.05,8137.97,22447.17,14309.2,Smartphone,Electronics,CUST1028,Consumer,South,Hyderabad,2,Completed,April,Q2,2025,Profit
+TXN100531,4/25/2025,52760.41,32757.51,8507.73,20002.9,11495.17,Monitor,Electronics,CUST1110,Consumer,South,Chennai,3,Completed,April,Q2,2025,Profit
+TXN100346,4/26/2025,21996.75,13315.53,2638.27,8681.22,6042.95,Headphones,Accessories,CUST1062,Consumer,South,Chennai,5,Completed,April,Q2,2025,Profit
+TXN100178,4/26/2025,88422.17,66446.35,6961.9,21975.82,15013.92,Smartphone,Electronics,CUST1189,Corporate,West,Ahmedabad,3,Completed,April,Q2,2025,Profit
+TXN100281,4/26/2025,11520.37,8020.03,897.81,3500.34,2602.53,Office Chair,Furniture,CUST1167,Consumer,West,Mumbai,1,Completed,April,Q2,2025,Profit
+TXN100654,4/27/2025,46420.47,30176.81,5369.32,16243.66,10874.34,Tablet,Electronics,CUST1173,Consumer,North,Jaipur,2,Completed,April,Q2,2025,Profit
+TXN100440,4/27/2025,73584.14,43938.51,5775.67,29645.63,23869.96,Smartwatch,Accessories,CUST1188,Consumer,North,Delhi,8,Completed,April,Q2,2025,Profit
+TXN100770,4/28/2025,54458.41,30713.04,5743.7,23745.37,18001.67,Desk,Furniture,CUST1050,Consumer,South,Bengaluru,3,Completed,April,Q2,2025,Profit
+TXN100452,4/28/2025,9214.49,6022.26,937.12,3192.23,2255.11,Headphones,Accessories,CUST1134,Consumer,West,Ahmedabad,2,Completed,April,Q2,2025,Profit
+TXN100722,4/29/2025,18049.79,13696.46,3058.58,4353.33,1294.75,Desk,Furniture,UNKNOWN,Small Business,West,Pune,1,Completed,April,Q2,2025,Profit
+TXN100433,4/30/2025,7717.58,4268.17,700.92,3449.41,2748.49,Smartwatch,Accessories,CUST1166,Corporate,West,Mumbai,1,Completed,April,Q2,2025,Profit
+TXN100279,4/30/2025,54929.83,40457.79,9319.92,14472.04,5152.12,Desk,Furniture,CUST1072,Consumer,South,Bengaluru,3,Completed,April,Q2,2025,Profit
+TXN100177,5/1/2025,29513.25,17825.5,5302.9,11687.75,6384.85,Smartphone,Electronics,CUST1059,Consumer,West,Surat,1,Returned,May,Q2,2025,Profit
+TXN100009,5/2/2025,48957.61,36474.98,7827.24,12482.63,4655.39,Tablet,Electronics,CUST1179,Consumer,West,Surat,2,Completed,May,Q2,2025,Profit
+TXN100446,5/2/2025,15580.43,9206.31,2344.42,6374.12,4029.7,Printer,Electronics,CUST1028,Consumer,North,Delhi,1,Completed,May,Q2,2025,Profit
+TXN100689,5/2/2025,116622.72,67941.74,17702.89,48680.98,30978.09,Smartphone,Electronics,CUST1193,Small Business,West,Pune,4,Completed,May,Q2,2025,Profit
+TXN100840,5/2/2025,2377.7,1553.11,201.81,824.59,622.78,Mouse,Accessories,CUST1183,Corporate,West,Ahmedabad,2,Completed,May,Q2,2025,Profit
+TXN100612,5/2/2025,232277.43,175845.45,34197.99,56431.98,22233.99,Laptop,Electronics,CUST1176,Consumer,North,Delhi,4,Completed,May,Q2,2025,Profit
+TXN100592,5/2/2025,1141.33,862.64,101.08,278.69,177.61,Mouse,Accessories,CUST1117,Small Business,West,Mumbai,1,Returned,May,Q2,2025,Profit
+TXN100225,5/3/2025,7664.7,5298,1182.45,2366.7,1184.25,Keyboard,Accessories,CUST1194,Consumer,South,Bengaluru,4,Pending,May,Q2,2025,Profit
+TXN100236,5/4/2025,99778.36,59108.13,8406.93,40670.23,32263.3,Desk,Furniture,CUST1025,Consumer,West,Ahmedabad,6,Completed,May,Q2,2025,Profit
+TXN100428,5/4/2025,22347.69,16896.75,2538.57,5450.94,2912.37,Tablet,Electronics,CUST1016,Consumer,South,Bengaluru,1,Completed,May,Q2,2025,Profit
+TXN100400,5/5/2025,8522.51,4717.94,689.9,3804.57,3114.67,Headphones,Accessories,CUST1111,Consumer,North,Delhi,2,Completed,May,Q2,2025,Profit
+TXN100644,5/6/2025,68796.31,48712.32,5845.36,20083.99,14238.63,Laptop,Electronics,UNKNOWN,Consumer,West,Ahmedabad,1,Pending,May,Q2,2025,Profit
+TXN100451,5/6/2025,9528.63,5976.59,872.19,3552.04,2679.85,Headphones,Accessories,CUST1045,Corporate,West,Ahmedabad,2,Completed,May,Q2,2025,Profit
+TXN100639,5/6/2025,15161.37,8947.23,2232.72,6214.14,3981.42,Backpack,Accessories,CUST1064,Consumer,East,Kolkata,6,Completed,May,Q2,2025,Profit
+TXN100214,5/6/2025,16193.52,9512.51,1480.23,6681.01,5200.78,Smartwatch,Accessories,CUST1174,Small Business,South,Bengaluru,2,Completed,May,Q2,2025,Profit
+TXN100819,5/6/2025,1723.22,1332.6,307.59,390.62,83.03,Keyboard,Accessories,CUST1010,Corporate,West,Pune,1,Completed,May,Q2,2025,Profit
+TXN100366,5/7/2025,14676.56,10770.37,1307.21,3906.19,2598.98,Headphones,Accessories,CUST1116,Small Business,South,Bengaluru,3,Completed,May,Q2,2025,Profit
+TXN100443,5/7/2025,88609.71,53342.56,10034.71,35267.15,25232.44,Smartphone,Electronics,CUST1025,Small Business,West,Unknown,3,Completed,May,Q2,2025,Profit
+TXN100249,5/8/2025,178477.85,130448.06,24978.87,48029.79,23050.92,Laptop,Electronics,CUST1156,Corporate,North,Delhi,3,Completed,May,Q2,2025,Profit
+TXN100305,5/8/2025,1026.7,672.49,140.51,354.21,213.7,Mouse,Accessories,CUST1047,Consumer,West,Mumbai,1,Completed,May,Q2,2025,Profit
+TXN100171,5/8/2025,104745.57,78176.9,10083.6,26568.67,16485.07,Monitor,Electronics,CUST1058,Consumer,West,Pune,6,Completed,May,Q2,2025,Profit
+TXN100352,5/8/2025,247905.23,168224.72,42564.7,79680.51,37115.81,Smartphone,Electronics,CUST1013,Consumer,West,Mumbai,8,Pending,May,Q2,2025,Profit
+TXN100100,5/9/2025,18453.4,11122.03,3050.5,7331.37,4280.87,Desk,Furniture,CUST1013,Consumer,North,Delhi,1,Returned,May,Q2,2025,Profit
+TXN100444,5/9/2025,176858.66,107232.32,27586.34,69626.34,42040,Laptop,Electronics,CUST1111,Consumer,North,Delhi,3,Completed,May,Q2,2025,Profit
+TXN100253,5/9/2025,30309.33,23493.07,4766.01,6816.26,2050.25,Smartphone,Electronics,CUST1156,Consumer,West,Pune,1,Pending,May,Q2,2025,Profit
+TXN100215,5/10/2025,49661.54,33351.5,8937.51,16310.04,7372.53,Desk,Furniture,CUST1098,Small Business,West,Mumbai,3,Completed,May,Q2,2025,Profit
+TXN100208,5/10/2025,32912.01,24730.91,3556.03,8181.1,4625.07,Desk,Furniture,CUST1157,Consumer,West,Mumbai,2,Completed,May,Q2,2025,Profit
+TXN100127,5/11/2025,2486.94,1620.46,237.7,866.48,628.78,Backpack,Accessories,CUST1012,Corporate,South,Bengaluru,1,Completed,May,Q2,2025,Profit
+TXN100042,5/11/2025,28229.5,16798.26,3080.52,11431.24,8350.72,Printer,Electronics,CUST1039,Corporate,West,Ahmedabad,2,Completed,May,Q2,2025,Profit
+TXN100016,5/11/2025,43605.9,26091.95,6638.43,17513.95,10875.52,Tablet,Electronics,CUST1153,Consumer,South,Bengaluru,2,Completed,May,Q2,2025,Profit
+TXN100276,5/11/2025,1178.55,801.58,191.82,376.97,185.15,Mouse,Accessories,CUST1059,Corporate,West,Ahmedabad,1,Completed,May,Q2,2025,Profit
+TXN100626,5/12/2025,80701.29,60008.24,7540.24,20693.05,13152.81,Monitor,Electronics,CUST1057,Consumer,West,Ahmedabad,5,Completed,May,Q2,2025,Profit
+TXN100850,5/13/2025,129231.2,79414.35,18158.36,49816.85,31658.49,Laptop,Electronics,CUST1177,Corporate,West,Pune,2,Cancelled,May,Q2,2025,Profit
+TXN100593,5/13/2025,2382.24,1296.38,204.46,1085.86,881.4,Backpack,Accessories,CUST1058,Consumer,North,Jaipur,1,Completed,May,Q2,2025,Profit
+TXN100745,5/13/2025,15574.6,9149.2,2180.05,6425.4,4245.35,Printer,Electronics,CUST1140,Consumer,North,Delhi,1,Completed,May,Q2,2025,Profit
+TXN100807,5/13/2025,132433.21,94109.66,10640.56,38323.55,27682.99,Smartphone,Electronics,CUST1184,Consumer,West,Mumbai,5,Returned,May,Q2,2025,Profit
+TXN100163,5/14/2025,55044.24,40713.21,5476.64,14331.03,8854.39,Smartphone,Electronics,CUST1184,Small Business,South,Bengaluru,2,Completed,May,Q2,2025,Profit
+TXN100655,5/14/2025,29496.15,17926.11,2123.4,11570.04,9446.64,Monitor,Electronics,CUST1147,Consumer,South,Bengaluru,2,Completed,May,Q2,2025,Profit
+TXN100044,5/15/2025,16300.5,8794.7,2446.72,7505.8,5059.08,Headphones,Accessories,CUST1171,Consumer,North,Delhi,4,Completed,May,Q2,2025,Profit
+TXN100303,5/15/2025,43061.15,30474.44,4836.99,12586.71,7749.72,Tablet,Electronics,CUST1045,Consumer,West,Ahmedabad,2,Completed,May,Q2,2025,Profit
+TXN100111,5/15/2025,35117.24,25290.93,4608.44,9826.31,5217.87,Monitor,Electronics,CUST1068,Consumer,North,Delhi,2,Completed,May,Q2,2025,Profit
+TXN100101,5/16/2025,93791.39,56746.48,13452.99,37044.91,23591.92,Monitor,Electronics,CUST1082,Corporate,North,Delhi,6,Pending,May,Q2,2025,Profit
+TXN100693,5/16/2025,186119.15,100973.57,26728,85145.58,58417.58,Tablet,Electronics,CUST1091,Small Business,North,Delhi,8,Completed,May,Q2,2025,Profit
+TXN100618,5/16/2025,172754.55,108108.69,16286.76,64645.86,48359.1,Laptop,Electronics,CUST1139,Consumer,West,Pune,3,Completed,May,Q2,2025,Profit
+TXN100183,5/17/2025,7221.87,4328.65,674.46,2893.22,2218.76,Keyboard,Accessories,CUST1117,Corporate,West,Mumbai,4,Unknown,May,Q2,2025,Profit
+TXN100809,5/18/2025,68774.06,43227.01,10341.88,25547.05,15205.17,Tablet,Electronics,CUST1001,Consumer,West,Ahmedabad,3,Completed,May,Q2,2025,Profit
+TXN100103,5/19/2025,25779.6,16384.2,1846.16,9395.4,7549.24,Smartwatch,Accessories,UNKNOWN,Consumer,West,Mumbai,3,Completed,May,Q2,2025,Profit
+TXN100267,5/20/2025,29784.47,15488.01,3449.7,14296.46,10846.76,Smartphone,Electronics,CUST1101,Consumer,West,Pune,1,Completed,May,Q2,2025,Profit
+TXN100641,5/21/2025,53833.92,40313.01,4923.09,13520.91,8597.82,Printer,Electronics,CUST1084,Corporate,West,Ahmedabad,4,Completed,May,Q2,2025,Profit
+TXN100608,5/21/2025,120999.01,86074.97,12729.31,34924.04,22194.73,Laptop,Electronics,CUST1057,Small Business,West,Ahmedabad,2,Completed,May,Q2,2025,Profit
+TXN100387,5/22/2025,8333.02,5973.89,1406.41,2359.13,952.72,Smartwatch,Accessories,CUST1058,Consumer,West,Pune,1,Completed,May,Q2,2025,Profit
+TXN100388,5/23/2025,21132.09,11410.69,2025.5,9721.4,7695.9,Tablet,Electronics,CUST1173,Consumer,South,Bengaluru,1,Pending,May,Q2,2025,Profit
+TXN100148,5/23/2025,5410.84,3232.23,715.06,2178.61,1463.55,Keyboard,Accessories,CUST1039,Consumer,South,Bengaluru,3,Completed,May,Q2,2025,Profit
+TXN100677,5/23/2025,28640.26,18908.02,5057,9732.24,4675.24,Smartphone,Electronics,CUST1031,Corporate,West,Ahmedabad,1,Completed,May,Q2,2025,Profit
+TXN100465,5/24/2025,67980.94,49709.13,5374.89,18271.81,12896.92,Office Chair,Furniture,CUST1083,Corporate,West,Ahmedabad,6,Completed,May,Q2,2025,Profit
+TXN100578,5/24/2025,352949.77,226079.06,55155.41,126870.71,71715.3,Laptop,Electronics,CUST1114,Corporate,West,Ahmedabad,5,Cancelled,May,Q2,2025,Profit
+TXN100584,5/24/2025,50958.25,33459.99,4180.82,17498.26,13317.44,Smartphone,Electronics,CUST1117,Small Business,West,Pune,2,Completed,May,Q2,2025,Profit
+TXN100233,5/24/2025,70293.68,36622.53,6829.07,33671.15,26842.08,Laptop,Electronics,CUST1157,Corporate,West,Mumbai,1,Completed,May,Q2,2025,Profit
+TXN100681,5/24/2025,38156.67,27059.43,5314.69,11097.24,5782.55,Office Chair,Furniture,CUST1064,Corporate,South,Bengaluru,3,Completed,May,Q2,2025,Profit
+TXN100260,5/24/2025,137933.07,104662.35,24083.41,33270.72,9187.31,Laptop,Electronics,CUST1017,Consumer,South,Bengaluru,2,Completed,May,Q2,2025,Profit
+TXN100426,5/24/2025,7647.13,4774.72,819.69,2872.41,2052.72,Backpack,Accessories,CUST1181,Consumer,West,Unknown,3,Completed,May,Q2,2025,Profit
+TXN100622,5/25/2025,144917.88,78651.04,25072.86,66266.84,41193.98,Tablet,Electronics,CUST1194,Consumer,South,Bengaluru,6,Pending,May,Q2,2025,Profit
+TXN100753,5/25/2025,31084.64,21121.53,3070.66,9963.11,6892.45,Smartphone,Electronics,CUST1058,Consumer,South,Chennai,1,Completed,May,Q2,2025,Profit
+TXN100703,5/25/2025,14580.42,8892.06,2316.06,5688.36,3372.3,Monitor,Electronics,CUST1024,Corporate,West,Mumbai,1,Completed,May,Q2,2025,Profit
+TXN100432,5/25/2025,127482.61,98857.1,10131.62,28625.51,18493.89,Desk,Furniture,CUST1161,Corporate,West,Pune,8,Pending,May,Q2,2025,Profit
+TXN100725,5/26/2025,142779.1,97776.74,11123.88,45002.36,33878.48,Laptop,Electronics,CUST1019,Corporate,West,Mumbai,2,Cancelled,May,Q2,2025,Profit
+TXN100599,5/26/2025,1699.77,1287.02,237.37,412.75,175.38,Keyboard,Accessories,CUST1143,Consumer,South,Bengaluru,1,Completed,May,Q2,2025,Profit
+TXN100244,5/27/2025,75459.92,46745.22,8334.6,28714.7,20380.1,Smartphone,Electronics,CUST1135,Small Business,West,Ahmedabad,3,Completed,May,Q2,2025,Profit
+TXN100325,5/27/2025,137743.34,100515.85,22642.6,37227.49,14584.89,Laptop,Electronics,UNKNOWN,Small Business,West,Ahmedabad,2,Returned,May,Q2,2025,Profit
+TXN100493,5/27/2025,250177.68,170919.87,22796.63,79257.81,56461.18,Laptop,Electronics,CUST1169,Consumer,West,Surat,4,Completed,May,Q2,2025,Profit
+TXN100671,5/27/2025,88581.73,60658.65,7569.82,27923.08,20353.26,Smartphone,Electronics,CUST1126,Consumer,South,Chennai,3,Completed,May,Q2,2025,Profit
+TXN100273,5/27/2025,92526.58,59221.29,15850.67,33305.29,17454.62,Tablet,Electronics,CUST1167,Small Business,South,Hyderabad,4,Completed,May,Q2,2025,Profit
+TXN100431,5/27/2025,8043.03,5164.23,936.95,2878.8,1941.85,Backpack,Accessories,CUST1030,Consumer,West,Mumbai,3,Returned,May,Q2,2025,Profit
+TXN100245,5/28/2025,187890.87,115863.32,13180.34,72027.55,58847.21,Laptop,Electronics,CUST1135,Corporate,West,Mumbai,3,Completed,May,Q2,2025,Profit
+TXN100646,5/28/2025,70248.46,45879.55,8989.75,24368.91,15379.16,Laptop,Electronics,CUST1100,Corporate,West,Ahmedabad,1,Completed,May,Q2,2025,Profit
+TXN100241,5/28/2025,997.44,652.45,99.18,344.99,245.81,Mouse,Accessories,CUST1046,Consumer,West,Mumbai,1,Pending,May,Q2,2025,Profit
+TXN100663,5/29/2025,188421.04,101970.3,17196.68,86450.74,69254.06,Laptop,Electronics,CUST1195,Consumer,North,Delhi,3,Returned,May,Q2,2025,Profit
+TXN100017,5/30/2025,20569.25,13599.17,2416.23,6970.08,4553.85,Unknown,Electronics,CUST1179,Consumer,West,Mumbai,1,Completed,May,Q2,2025,Profit
+TXN100401,5/30/2025,152092.19,87404.77,23451.09,64687.42,41236.33,Monitor,Electronics,CUST1024,Small Business,West,Ahmedabad,10,Completed,May,Q2,2025,Profit
+TXN100825,5/31/2025,2648.94,1999.4,226.14,649.54,423.4,Backpack,Accessories,CUST1075,Small Business,North,Delhi,1,Completed,May,Q2,2025,Profit
+TXN100583,5/31/2025,4870.39,3490.75,652.96,1379.64,726.68,Keyboard,Accessories,CUST1084,Consumer,West,Pune,3,Completed,May,Q2,2025,Profit
+TXN100365,5/31/2025,118252.99,89444.86,12360.58,28808.13,16447.55,Desk,Furniture,CUST1129,Consumer,West,Pune,6,Completed,May,Q2,2025,Profit
+TXN100255,5/31/2025,15059.02,8575.03,2367.06,6483.99,4116.93,Headphones,Accessories,CUST1098,Consumer,North,Delhi,3,Cancelled,May,Q2,2025,Profit
+TXN100549,5/31/2025,204962.89,127518.98,20180.28,77443.91,57263.63,Laptop,Electronics,CUST1081,Small Business,West,Ahmedabad,3,Completed,May,Q2,2025,Profit
+TXN100548,6/1/2025,28527.8,15446.91,2481.84,13080.89,10599.05,Smartphone,Electronics,CUST1055,Small Business,West,Pune,1,Completed,June,Q2,2025,Profit
+TXN100190,6/1/2025,11249.79,8173.99,830.39,3075.8,2245.41,Office Chair,Furniture,CUST1064,Consumer,South,Chennai,1,Completed,June,Q2,2025,Profit
+TXN100277,6/1/2025,13271.89,7967.08,1633.09,5304.81,3671.72,Headphones,Accessories,CUST1064,Consumer,North,Unknown,3,Completed,June,Q2,2025,Profit
+TXN100505,6/1/2025,193324.74,131652.82,23746.54,61671.92,37925.38,Laptop,Electronics,CUST1078,Consumer,West,Ahmedabad,3,Completed,June,Q2,2025,Profit
+TXN100015,6/1/2025,17207.97,11924.28,2194.66,5283.69,3089.03,Monitor,Electronics,CUST1042,Consumer,West,Ahmedabad,1,Completed,June,Q2,2025,Profit
+TXN100290,6/2/2025,17713.08,9637.38,2698.1,8075.7,5377.6,Desk,Furniture,CUST1156,Consumer,East,Kolkata,1,Cancelled,June,Q2,2025,Profit
+TXN100396,6/2/2025,183954.22,109874.88,17530.71,74079.34,56548.63,Smartphone,Electronics,CUST1070,Consumer,North,Delhi,6,Completed,June,Q2,2025,Profit
+TXN100464,6/3/2025,59377.19,44724.01,9682.86,14653.18,4970.32,Smartphone,Electronics,CUST1102,Small Business,South,Bengaluru,2,Unknown,June,Q2,2025,Profit
+TXN100767,6/3/2025,640434.81,423069.28,113021.81,217365.53,104343.72,Laptop,Electronics,CUST1073,Consumer,West,Ahmedabad,10,Completed,June,Q2,2025,Profit
+TXN100367,6/4/2025,82666.29,46520.08,6846.76,36146.21,29299.45,Smartphone,Electronics,CUST1113,Consumer,West,Pune,3,Completed,June,Q2,2025,Profit
+TXN100836,6/4/2025,78926.17,53990.94,13800.72,24935.23,11134.51,Tablet,Electronics,CUST1071,Corporate,North,Delhi,4,Completed,June,Q2,2025,Profit
+TXN100687,6/5/2025,31494.25,18281.69,2604.75,13212.56,10607.81,Printer,Electronics,CUST1026,Consumer,South,Bengaluru,45,Completed,June,Q2,2025,Profit
+TXN100092,6/6/2025,16469.67,10488.76,2217.93,5980.91,3762.98,Headphones,Accessories,CUST1057,Consumer,West,Mumbai,4,Cancelled,June,Q2,2025,Profit
+TXN100310,6/7/2025,61516.73,39426.96,10221.54,22089.77,11868.23,Printer,Electronics,CUST1108,Corporate,South,Chennai,4,Completed,June,Q2,2025,Profit
+TXN100333,6/7/2025,2302.86,1469.06,276.43,833.8,557.37,Backpack,Accessories,CUST1166,Corporate,West,Ahmedabad,1,Completed,June,Q2,2025,Profit
+TXN100430,6/7/2025,347110.63,205502.68,60222.59,141607.95,81385.36,Laptop,Electronics,CUST1186,Corporate,West,Pune,5,Completed,June,Q2,2025,Profit
+TXN100659,6/9/2025,12155.87,7278.52,1846.55,4877.35,3030.8,Headphones,Accessories,CUST1181,Consumer,West,Ahmedabad,3,Returned,June,Q2,2025,Profit
+TXN100219,6/9/2025,9980.63,5974.77,1238.16,4005.86,2767.7,Backpack,Accessories,CUST1190,Consumer,West,Pune,4,Completed,June,Q2,2025,Profit
+TXN100192,6/9/2025,54226.1,34266.08,5686.37,19960.02,14273.65,Desk,Furniture,CUST1047,Small Business,South,Bengaluru,3,Completed,June,Q2,2025,Profit
+TXN100503,6/9/2025,55070.74,33106.87,8247.52,21963.87,13716.35,Smartphone,Electronics,CUST1154,Corporate,South,Hyderabad,2,Pending,June,Q2,2025,Profit
+TXN100153,6/9/2025,56348.88,31914.7,4124.62,24434.18,20309.56,Monitor,Electronics,CUST1188,Consumer,West,Ahmedabad,4,Completed,June,Q2,2025,Profit
+TXN100838,6/9/2025,59506.73,44958.59,9654.4,14548.14,4893.74,Monitor,Electronics,CUST1105,Consumer,West,Ahmedabad,4,Completed,June,Q2,2025,Profit
+TXN100269,6/9/2025,137400.34,82270.11,14534.55,55130.23,40595.68,Smartphone,Electronics,CUST1155,Corporate,North,Jaipur,5,Completed,June,Q2,2025,Profit
+TXN100280,6/10/2025,125412.31,85473.01,13387.2,39939.3,26552.1,Laptop,Electronics,CUST1078,Consumer,North,Delhi,2,Completed,June,Q2,2025,Profit
+TXN100024,6/10/2025,26681.44,14659.9,4758.17,12021.54,7263.37,Headphones,Accessories,CUST1182,Small Business,South,Bengaluru,6,Pending,June,Q2,2025,Profit
+TXN100298,6/10/2025,69125.28,43307.99,9820.57,25817.29,15996.72,Laptop,Electronics,CUST1038,Small Business,West,Pune,1,Completed,June,Q2,2025,Profit
+TXN100349,6/10/2025,25645.3,15021.16,4443.78,10624.14,6180.36,Office Chair,Furniture,CUST1076,Corporate,North,Delhi,2,Cancelled,June,Q2,2025,Profit
+TXN100769,6/11/2025,17715.09,12986.07,3004.73,4729.02,1724.29,Headphones,Accessories,CUST1114,Small Business,North,Delhi,4,Completed,June,Q2,2025,Profit
+TXN100072,6/11/2025,68607.81,51900.19,11272.92,16707.62,5434.7,Laptop,Electronics,CUST1147,Small Business,South,Unknown,1,Returned,June,Q2,2025,Profit
+TXN100507,6/12/2025,14171.58,8298.38,1688.4,5873.2,4184.8,Headphones,Accessories,CUST1156,Small Business,West,Pune,3,Completed,June,Q2,2025,Profit
+TXN100105,6/12/2025,129272.9,80476.9,16861.78,48796,31934.22,Laptop,Electronics,CUST1108,Consumer,West,Ahmedabad,2,Completed,June,Q2,2025,Profit
+TXN100594,6/12/2025,9504.67,7018.29,1235.11,2486.38,1251.27,Headphones,Accessories,CUST1180,Consumer,West,Ahmedabad,2,Completed,June,Q2,2025,Profit
+TXN100295,6/12/2025,52033.65,34340.46,5181.19,17693.19,12512,Smartwatch,Accessories,CUST1182,Consumer,West,Ahmedabad,6,Completed,June,Q2,2025,Profit
+TXN100691,6/13/2025,77041.6,47196.49,11299.8,29845.11,18545.31,Smartphone,Electronics,CUST1089,Consumer,West,Mumbai,3,Completed,June,Q2,2025,Profit
+TXN100669,6/13/2025,48296.87,34131.71,6469.85,14165.16,7695.31,Office Chair,Furniture,CUST1122,Corporate,West,Ahmedabad,4,Cancelled,June,Q2,2025,Profit
+TXN100540,6/13/2025,65775.59,41337.51,10955.08,24438.08,13483,Laptop,Electronics,CUST1087,Consumer,South,Chennai,1,Completed,June,Q2,2025,Profit
+TXN100185,6/14/2025,35657.5,26557.23,4640.16,9100.27,4460.11,Desk,Furniture,CUST1030,Consumer,North,Delhi,2,Completed,June,Q2,2025,Profit
+TXN100616,6/14/2025,1749.05,922.34,286.96,826.71,539.75,Keyboard,Accessories,CUST1192,Small Business,South,Hyderabad,1,Completed,June,Q2,2025,Profit
+TXN100750,6/14/2025,12471.71,8346.49,1747.47,4125.22,2377.75,Headphones,Accessories,CUST1081,Consumer,North,Delhi,3,Completed,June,Q2,2025,Profit
+TXN100800,6/15/2025,509391.72,308184.51,69652.1,201207.21,131555.11,Laptop,Electronics,CUST1020,Corporate,West,Ahmedabad,8,Cancelled,June,Q2,2025,Profit
+TXN100047,6/16/2025,40152.18,30309.86,5666.8,9842.32,4175.52,Office Chair,Furniture,CUST1109,Corporate,South,Bengaluru,3,Completed,June,Q2,2025,Profit
+TXN100633,6/16/2025,49012.63,37395.68,7345.36,11616.95,4271.59,Monitor,Electronics,CUST1070,Consumer,West,Mumbai,3,Cancelled,June,Q2,2025,Profit
+TXN100609,6/17/2025,9624.11,5052.33,1403.94,4571.78,3167.84,Backpack,Accessories,CUST1026,Corporate,West,Ahmedabad,4,Cancelled,June,Q2,2025,Profit
+TXN100514,6/17/2025,174282.12,98537.95,25761.84,75744.17,49982.33,Laptop,Electronics,CUST1121,Corporate,South,Bengaluru,3,Completed,June,Q2,2025,Profit
+TXN100297,6/18/2025,57010.32,36225.44,4128.14,20784.88,16656.74,Office Chair,Furniture,CUST1135,Consumer,South,Hyderabad,5,Completed,June,Q2,2025,Profit
+TXN100160,6/19/2025,129453.01,94330.76,15586.21,35122.25,19536.04,Smartphone,Electronics,CUST1070,Small Business,West,Pune,5,Completed,June,Q2,2025,Profit
+TXN100374,6/19/2025,55759.86,41186.25,5260.18,14573.61,9313.43,Smartphone,Electronics,CUST1189,Consumer,West,Ahmedabad,2,Completed,June,Q2,2025,Profit
+TXN100032,6/19/2025,46243.34,28951.84,6043.52,17291.5,11247.98,Smartwatch,Accessories,CUST1187,Small Business,South,Bengaluru,5,Completed,June,Q2,2025,Profit
+TXN100407,6/19/2025,15472.97,10245.29,2512.5,5227.68,2715.18,Monitor,Electronics,CUST1162,Consumer,North,Delhi,1,Completed,June,Q2,2025,Profit
+TXN100845,6/19/2025,83956.32,54363.24,8256.81,29593.08,21336.27,Monitor,Electronics,CUST1097,Consumer,West,Pune,5,Cancelled,June,Q2,2025,Profit
+TXN100610,6/19/2025,19064.53,10634.85,3175.72,8429.68,5253.96,Headphones,Accessories,UNKNOWN,Consumer,North,Delhi,4,Completed,June,Q2,2025,Profit
+TXN100149,6/20/2025,8618.41,6300.54,1306.45,2317.87,1011.42,Smartwatch,Accessories,CUST1132,Consumer,South,Chennai,1,Cancelled,June,Q2,2025,Profit
+TXN100189,6/21/2025,65517.7,35167.79,10908.46,30349.91,19441.45,Monitor,Electronics,CUST1125,Consumer,West,Ahmedabad,4,Pending,June,Q2,2025,Profit
+TXN100121,6/21/2025,15067.06,10921.43,2487.8,4145.63,1657.83,Monitor,Electronics,CUST1038,Corporate,West,Mumbai,1,Completed,June,Q2,2025,Profit
+TXN100217,6/21/2025,355590.05,239733.04,48325.85,115857.01,67531.16,Laptop,Electronics,CUST1047,Corporate,South,Chennai,6,Completed,June,Q2,2025,Profit
+TXN100331,6/21/2025,136170.47,72734.31,19182.09,63436.16,44254.07,Tablet,Electronics,CUST1182,Consumer,South,Chennai,6,Returned,June,Q2,2025,Profit
+TXN100758,6/22/2025,18535.51,12655.78,3114.56,5879.73,2765.17,Desk,Furniture,CUST1097,Corporate,West,Pune,1,Completed,June,Q2,2025,Profit
+TXN100658,6/22/2025,80791.11,58897.01,10177.85,21894.1,11716.25,Monitor,Electronics,UNKNOWN,Corporate,North,Delhi,5,Completed,June,Q2,2025,Profit
+TXN100660,6/22/2025,10485.18,6465.68,754.39,4019.5,3265.11,Backpack,Accessories,CUST1039,Consumer,North,Jaipur,4,Completed,June,Q2,2025,Profit
+TXN100640,6/22/2025,58917.15,36509.83,9549.75,22407.32,12857.57,Laptop,Electronics,CUST1100,Consumer,South,Bengaluru,1,Pending,June,Q2,2025,Profit
+TXN100383,6/22/2025,109578.14,71627.37,11388.62,37950.77,26562.15,Tablet,Electronics,CUST1112,Consumer,South,Hyderabad,5,Completed,June,Q2,2025,Profit
+TXN100607,6/23/2025,115674.75,67633.55,19679.03,48041.2,28362.17,Tablet,Electronics,CUST1100,Small Business,West,Mumbai,5,Completed,June,Q2,2025,Profit
+TXN100360,6/23/2025,6815.46,4043.07,1199.31,2772.39,1573.08,Keyboard,Accessories,CUST1032,Small Business,South,Hyderabad,4,Completed,June,Q2,2025,Profit
+TXN100036,6/24/2025,62326.13,42523.79,7169.7,19802.34,12632.64,Tablet,Electronics,CUST1053,Consumer,West,Mumbai,3,Completed,June,Q2,2025,Profit
+TXN100372,6/25/2025,4707.37,3008.3,446.81,1699.07,1252.26,Headphones,Accessories,CUST1065,Consumer,West,Mumbai,1,Completed,June,Q2,2025,Profit
+TXN100307,6/25/2025,17255.03,11425.21,2300.01,5829.82,3529.81,Desk,Furniture,CUST1048,Corporate,West,Pune,1,Completed,June,Q2,2025,Profit
+TXN100728,6/26/2025,211588.5,110294.73,36611.74,101293.77,64682.03,Laptop,Electronics,CUST1145,Consumer,West,Ahmedabad,3,Completed,June,Q2,2025,Profit
+TXN100568,6/26/2025,28315.04,19983.61,3366.91,8331.43,4964.52,Smartphone,Electronics,CUST1071,Corporate,West,Pune,1,Completed,June,Q2,2025,Profit
+TXN100544,6/26/2025,120150.2,63707.73,8699.25,56442.47,47743.22,Laptop,Electronics,CUST1185,Corporate,West,Ahmedabad,2,Completed,June,Q2,2025,Profit
+TXN100737,6/26/2025,32157.78,22090.74,3305.71,10067.04,6761.33,Printer,Electronics,CUST1094,Consumer,East,Kolkata,2,Completed,June,Q2,2025,Profit
+TXN100696,6/27/2025,28171.81,16907.92,4666.65,11263.89,6597.24,Smartwatch,Accessories,CUST1037,Consumer,West,Ahmedabad,3,Completed,June,Q2,2025,Profit
+TXN100506,6/27/2025,33858.03,19507.92,5972.55,14350.11,8377.56,Smartwatch,Accessories,CUST1002,Consumer,West,Ahmedabad,4,Completed,June,Q2,2025,Profit
+TXN100509,6/28/2025,64617.71,43237.42,6951.61,21380.29,14428.68,Printer,Electronics,CUST1134,Corporate,North,Delhi,4,Completed,June,Q2,2025,Profit
+TXN100138,6/28/2025,152101.56,118175.55,18063.59,33926.01,15862.42,Smartphone,Electronics,CUST1200,Consumer,South,Chennai,6,Completed,June,Q2,2025,Profit
+TXN100195,6/29/2025,24907.23,16863.66,4229.54,8043.57,3814.03,Smartphone,Electronics,CUST1106,Small Business,West,Pune,1,Completed,June,Q2,2025,Profit
+TXN100406,6/29/2025,179773.49,107314.41,25711.33,72459.08,46747.75,Laptop,Electronics,CUST1029,Consumer,North,Delhi,3,Returned,June,Q2,2025,Profit
+TXN100490,6/29/2025,59304.04,37733.52,9564.58,21570.52,12005.94,Monitor,Electronics,CUST1105,Corporate,West,Pune,60,Completed,June,Q2,2025,Profit
+TXN100588,6/30/2025,41559.85,31962.54,3061.99,9597.31,6535.32,Printer,Electronics,CUST1003,Consumer,South,Chennai,3,Completed,June,Q2,2025,Profit
+TXN100342,6/30/2025,115150.84,64548.38,14121.47,50602.46,36480.99,Smartphone,Electronics,CUST1128,Small Business,West,Ahmedabad,4,Pending,June,Q2,2025,Profit
+TXN100632,7/1/2025,129096.37,80361.14,21081.74,48735.23,27653.49,Monitor,Electronics,CUST1077,Consumer,South,Hyderabad,8,Completed,July,Q3,2025,Profit
+TXN100554,7/2/2025,312362.56,219724.39,28308.01,92638.17,64330.16,Laptop,Electronics,CUST1010,Consumer,West,Mumbai,5,Completed,July,Q3,2025,Profit
+TXN100826,7/2/2025,16099.39,9983.91,1731.85,6115.48,4383.63,Printer,Electronics,CUST1090,Corporate,West,Pune,1,Pending,July,Q3,2025,Profit
+TXN100810,7/3/2025,25186.95,18905.45,4008.45,6281.5,2273.05,Headphones,Accessories,CUST1025,Consumer,South,Hyderabad,5,Completed,July,Q3,2025,Profit
+TXN100831,7/3/2025,25699.17,15642.38,4069.81,10056.79,5986.98,Unknown,Electronics,CUST1141,Consumer,West,Mumbai,2,Cancelled,July,Q3,2025,Profit
+TXN100224,7/3/2025,9509.08,5166.77,668.06,4342.31,3674.25,Smartwatch,Accessories,CUST1036,Small Business,South,Bengaluru,1,Completed,July,Q3,2025,Profit
+TXN100467,7/4/2025,52553.6,31509.68,4046.91,21043.92,16997.01,Smartphone,Electronics,CUST1189,Corporate,West,Ahmedabad,2,Completed,July,Q3,2025,Profit
+TXN100694,7/5/2025,26753.42,18746.95,3686.26,8006.47,4320.21,Printer,Electronics,CUST1048,Consumer,West,Mumbai,2,Completed,July,Q3,2025,Profit
+TXN100397,7/5/2025,4888.85,2599.78,695.21,2289.07,1593.86,Keyboard,Accessories,CUST1022,Consumer,South,Bengaluru,3,Completed,July,Q3,2025,Profit
+TXN100590,7/5/2025,61309.83,41029.86,6657.36,20279.97,13622.61,Smartphone,Electronics,CUST1115,Corporate,West,Ahmedabad,2,Pending,July,Q3,2025,Profit
+TXN100237,7/6/2025,74891.43,45954.36,13124.57,28937.07,15812.5,Smartphone,Electronics,CUST1041,Corporate,West,Ahmedabad,3,Completed,July,Q3,2025,Profit
+TXN100155,7/6/2025,172673.26,104251.15,24176.67,68422.11,44245.44,Laptop,Electronics,CUST1152,Corporate,West,Pune,3,Completed,July,Q3,2025,Profit
+TXN100205,7/6/2025,302852.01,194224.45,48407.73,108627.56,60219.83,Laptop,Electronics,CUST1021,Small Business,West,Mumbai,5,Completed,July,Q3,2025,Profit
+TXN100566,7/6/2025,9682.76,7512.04,1646.76,2170.72,523.96,Keyboard,Accessories,CUST1013,Consumer,West,Pune,5,Pending,July,Q3,2025,Profit
+TXN100090,7/7/2025,81162.14,54716.85,7141.26,26445.29,19304.03,Smartphone,Electronics,CUST1028,Consumer,South,Chennai,3,Completed,July,Q3,2025,Profit
+TXN100033,7/7/2025,14755.37,9808.6,2202.82,4946.77,2743.95,Headphones,Accessories,CUST1088,Consumer,North,Delhi,3,Pending,July,Q3,2025,Profit
+TXN100345,7/7/2025,459574.73,301443.17,55974.09,158131.56,102157.47,Laptop,Electronics,CUST1076,Corporate,North,Delhi,8,Completed,July,Q3,2025,Profit
+TXN100006,7/8/2025,48665.19,32727.3,6428.21,15937.89,9509.68,Office Chair,Furniture,CUST1101,Corporate,West,Pune,4,Completed,July,Q3,2025,Profit
+TXN100457,7/8/2025,38432.52,23585.95,5247.28,14846.57,9599.29,Printer,Electronics,CUST1168,Corporate,South,Bengaluru,3,Completed,July,Q3,2025,Profit
+TXN100174,7/9/2025,18693.57,12311.35,1633.35,6382.22,4748.87,Smartwatch,Accessories,CUST1012,Corporate,North,Unknown,2,Completed,July,Q3,2025,Profit
+TXN100035,7/9/2025,13084.16,8990.92,1929.05,4093.24,2164.19,Office Chair,Furniture,CUST1197,Small Business,South,Bengaluru,1,Cancelled,July,Q3,2025,Profit
+TXN100399,7/9/2025,170291.41,107783.22,20283.17,62508.19,42225.02,Monitor,Electronics,CUST1017,Corporate,West,Pune,10,Completed,July,Q3,2025,Profit
+TXN100080,7/9/2025,66053.64,46188.73,10440.74,19864.91,9424.17,Laptop,Electronics,CUST1119,Consumer,West,Ahmedabad,1,Completed,July,Q3,2025,Profit
+TXN100550,7/9/2025,36952.09,28268.96,5790.47,8683.13,2892.66,Office Chair,Furniture,CUST1002,Corporate,South,Hyderabad,3,Completed,July,Q3,2025,Profit
+TXN100651,7/9/2025,21295.39,13140.79,1845.36,8154.6,6309.24,Tablet,Electronics,CUST1127,Corporate,South,Bengaluru,1,Pending,July,Q3,2025,Profit
+TXN100069,7/10/2025,677464.15,430832.76,95680.36,246631.39,150951.03,Laptop,Electronics,CUST1007,Small Business,West,Ahmedabad,10,Completed,July,Q3,2025,Profit
+TXN100652,7/10/2025,20291.6,15594.8,1577.56,4696.8,3119.24,Tablet,Electronics,CUST1153,Consumer,South,Bengaluru,1,Completed,July,Q3,2025,Profit
+TXN100347,7/10/2025,3487.1,2278.31,577.66,1208.79,631.13,Mouse,Accessories,CUST1039,Corporate,South,Chennai,3,Completed,July,Q3,2025,Profit
+TXN100458,7/11/2025,16504.35,12384.94,1987.74,4119.41,2131.67,Desk,Furniture,CUST1146,Small Business,South,Bengaluru,1,Completed,July,Q3,2025,Profit
+TXN100022,7/11/2025,22455.29,14630.32,3082.21,7824.97,4742.76,Tablet,Electronics,CUST1060,Small Business,West,Pune,1,Completed,July,Q3,2025,Profit
+TXN100788,7/11/2025,82075.11,50438.35,7702.71,31636.76,23934.05,Smartphone,Electronics,CUST1058,Corporate,West,Ahmedabad,3,Completed,July,Q3,2025,Profit
+TXN100542,7/11/2025,139046.65,80528.2,12275.09,58518.45,46243.36,Smartphone,Electronics,CUST1034,Consumer,West,Ahmedabad,5,Completed,July,Q3,2025,Profit
+TXN100328,7/11/2025,25995.42,20213.43,3983.55,5781.99,1798.44,Smartwatch,Accessories,CUST1074,Small Business,North,Delhi,3,Completed,July,Q3,2025,Profit
+TXN100702,7/11/2025,56971.49,36170.17,6160.84,20801.32,14640.48,Smartphone,Electronics,CUST1149,Consumer,West,Mumbai,2,Completed,July,Q3,2025,Profit
+TXN100293,7/13/2025,121118.74,81784.81,16402.91,39333.93,22931.02,Laptop,Electronics,CUST1138,Consumer,South,Hyderabad,2,Completed,July,Q3,2025,Profit
+TXN100613,7/13/2025,22236.1,15717.85,2990.44,6518.25,3527.81,Headphones,Accessories,CUST1074,Small Business,North,Delhi,5,Completed,July,Q3,2025,Profit
+TXN100833,7/14/2025,63890.64,44058.26,9582.6,19832.38,10249.78,Laptop,Electronics,CUST1070,Consumer,North,Delhi,1,Completed,July,Q3,2025,Profit
+TXN100835,7/14/2025,115052.38,66500.67,8768.92,48551.71,39782.79,Laptop,Electronics,CUST1056,Small Business,North,Jaipur,2,Completed,July,Q3,2025,Profit
+TXN100304,7/14/2025,112401.41,63164.46,8901.18,49236.95,40335.77,Smartphone,Electronics,CUST1160,Corporate,West,Ahmedabad,4,Completed,July,Q3,2025,Profit
+TXN100418,7/15/2025,199004.38,131493.61,15813.59,67510.77,51697.18,Laptop,Electronics,CUST1039,Consumer,East,Kolkata,3,Completed,July,Q3,2025,Profit
+TXN100533,7/15/2025,84580.08,45384.54,9523.26,39195.54,29672.28,Monitor,Electronics,CUST1140,Consumer,South,Hyderabad,5,Completed,July,Q3,2025,Profit
+TXN100743,7/16/2025,88216,46355.3,6528.58,41860.7,35332.12,Smartphone,Electronics,CUST1155,Consumer,West,Ahmedabad,3,Cancelled,July,Q3,2025,Profit
+TXN100713,7/16/2025,33197.01,18794.99,5665.68,14402.02,8736.34,Headphones,Accessories,CUST1125,Consumer,North,Delhi,8,Completed,July,Q3,2025,Profit
+TXN100231,7/17/2025,96565.5,64085.72,12284.94,32479.78,20194.84,Desk,Furniture,CUST1008,Corporate,West,Mumbai,5,Completed,July,Q3,2025,Profit
+TXN100182,7/17/2025,114519.09,79846.61,10121.71,34672.48,24550.77,Laptop,Electronics,CUST1001,Consumer,South,Bengaluru,2,Completed,July,Q3,2025,Profit
+TXN100220,7/17/2025,48890.25,36425.68,8696.66,12464.57,3767.91,Monitor,Electronics,CUST1179,Consumer,West,Mumbai,3,Completed,July,Q3,2025,Profit
+TXN100247,7/18/2025,206580.4,132870.56,15775.08,73709.84,57934.76,Laptop,Electronics,CUST1137,Consumer,West,Mumbai,3,Returned,July,Q3,2025,Profit
+TXN100704,7/20/2025,5885.32,3126.83,580.96,2758.49,2177.53,Keyboard,Accessories,CUST1075,Corporate,North,Delhi,3,Pending,July,Q3,2025,Profit
+TXN100112,7/20/2025,101127.99,68989.86,12104.46,32138.13,20033.67,Smartphone,Electronics,CUST1175,Consumer,South,Bengaluru,4,Completed,July,Q3,2025,Profit
+TXN100235,7/20/2025,1149.37,745.24,129.47,404.13,274.66,Mouse,Accessories,CUST1120,Small Business,West,Mumbai,1,Completed,July,Q3,2025,Profit
+TXN100635,7/21/2025,50382.22,30108.83,7253.01,20273.39,13020.38,Smartphone,Electronics,CUST1017,Small Business,North,Jaipur,2,Completed,July,Q3,2025,Profit
+TXN100073,7/21/2025,157111.77,90403.25,11535.89,66708.52,55172.63,Smartphone,Electronics,CUST1012,Consumer,West,Surat,6,Completed,July,Q3,2025,Profit
+TXN100751,7/21/2025,123687.58,65377.1,16687.19,58310.48,41623.29,Laptop,Electronics,CUST1015,Consumer,West,Mumbai,2,Completed,July,Q3,2025,Profit
+TXN100666,7/22/2025,60440.33,47133.03,5396.52,13307.3,7910.78,Monitor,Electronics,CUST1055,Consumer,South,Unknown,4,Completed,July,Q3,2025,Profit
+TXN100223,7/22/2025,17133.39,10507.33,2715.44,6626.06,3910.62,Desk,Furniture,CUST1184,Corporate,South,Bengaluru,1,Completed,July,Q3,2025,Profit
+TXN100474,7/23/2025,15189.14,8907.92,1944.7,6281.22,4336.52,Smartwatch,Accessories,CUST1082,Small Business,West,Surat,2,Completed,July,Q3,2025,Profit
+TXN100818,7/24/2025,48004.13,29424.3,4825.23,18579.83,13754.6,Office Chair,Furniture,CUST1066,Corporate,West,Ahmedabad,4,Completed,July,Q3,2025,Profit
+TXN100759,7/24/2025,60307.1,40521.74,7594.96,19785.36,12190.4,Smartphone,Electronics,CUST1134,Consumer,North,Jaipur,2,Completed,July,Q3,2025,Profit
+TXN100574,7/25/2025,27238.6,19979.43,4811.54,7259.17,2447.63,Smartphone,Electronics,CUST1048,Small Business,West,Pune,1,Completed,July,Q3,2025,Profit
+TXN100060,7/25/2025,3579.85,1902.83,586.17,1677.02,1090.85,Keyboard,Accessories,CUST1040,Consumer,West,Pune,2,Completed,July,Q3,2025,Profit
+TXN100134,7/26/2025,25074.22,13316.53,2779.6,11757.69,8978.09,Smartphone,Electronics,CUST1139,Corporate,South,Chennai,1,Completed,July,Q3,2025,Profit
+TXN100782,7/26/2025,14487.11,9584.09,1282.52,4903.02,3620.5,Printer,Electronics,CUST1122,Consumer,South,Hyderabad,1,Completed,July,Q3,2025,Profit
+TXN100296,7/27/2025,3922.9,2690.59,634.34,1232.31,597.97,Keyboard,Accessories,CUST1114,Corporate,West,Ahmedabad,2,Completed,July,Q3,2025,Profit
+TXN100083,7/27/2025,16192.64,8674.26,1573.62,7518.38,5944.76,Headphones,Accessories,CUST1045,Consumer,North,Delhi,4,Completed,July,Q3,2025,Profit
+TXN100275,7/27/2025,115895.84,71731.95,10191.17,44163.89,33972.72,Printer,Electronics,CUST1128,Corporate,South,Bengaluru,8,Pending,July,Q3,2025,Profit
+TXN100705,7/31/2025,1744.99,1066.96,226.47,678.03,451.56,Keyboard,Accessories,CUST1187,Corporate,West,Mumbai,1,Completed,July,Q3,2025,Profit
+TXN100665,8/1/2025,52605.9,36180.33,7449.36,16425.57,8976.21,Smartphone,Electronics,CUST1196,Consumer,West,Ahmedabad,2,Pending,August,Q3,2025,Profit
+TXN100082,8/1/2025,7471.92,5169.17,977.55,2302.75,1325.2,Backpack,Accessories,CUST1022,Corporate,North,Unknown,3,Completed,August,Q3,2025,Profit
+TXN100123,8/2/2025,84316.1,63999.45,10511.35,20316.65,9805.3,Smartphone,Electronics,CUST1101,Consumer,West,Mumbai,3,Returned,August,Q3,2025,Profit
+TXN100393,8/3/2025,124758.35,86373.58,20681.16,38384.77,17703.61,Laptop,Electronics,CUST1029,Consumer,North,Delhi,2,Completed,August,Q3,2025,Profit
+TXN100525,8/3/2025,58196.52,35064.63,5484.15,23131.89,17647.74,Laptop,Electronics,CUST1186,Consumer,West,Ahmedabad,1,Unknown,August,Q3,2025,Profit
+TXN100078,8/3/2025,17915.79,9804.99,1731.11,8110.8,6379.69,Desk,Furniture,CUST1160,Corporate,South,Chennai,1,Returned,August,Q3,2025,Profit
+TXN100010,8/3/2025,51900.47,29755.59,9159.36,22144.88,12985.52,Monitor,Electronics,CUST1020,Consumer,North,Jaipur,3,Completed,August,Q3,2025,Profit
+TXN100595,8/3/2025,50040.47,34902.95,6963.67,15137.52,8173.85,Monitor,Electronics,CUST1054,Corporate,West,Mumbai,3,Completed,August,Q3,2025,Profit
+TXN100118,8/4/2025,113553.22,80619.28,13759.54,32933.94,19174.4,Smartphone,Electronics,CUST1044,Small Business,North,Jaipur,4,Completed,August,Q3,2025,Profit
+TXN100733,8/5/2025,17608.55,12352.37,2468.64,5256.18,2787.54,Smartwatch,Accessories,CUST1077,Consumer,North,Delhi,2,Completed,August,Q3,2025,Profit
+TXN100537,8/5/2025,18206.29,9834.05,1839.83,8372.24,6532.41,Smartwatch,Accessories,CUST1130,Consumer,North,Jaipur,2,Completed,August,Q3,2025,Profit
+TXN100564,8/5/2025,8498.43,5374.24,680.42,3124.19,2443.77,Headphones,Accessories,CUST1141,Corporate,West,Mumbai,2,Completed,August,Q3,2025,Profit
+TXN100088,8/5/2025,30918.28,19163.16,3748.51,11755.12,8006.61,Monitor,Electronics,CUST1099,Small Business,North,Jaipur,2,Pending,August,Q3,2025,Profit
+TXN100557,8/5/2025,13527.81,8258.64,2279.59,5269.17,2989.58,Keyboard,Accessories,CUST1153,Small Business,West,Mumbai,8,Returned,August,Q3,2025,Profit
+TXN100624,8/5/2025,84053.02,49341.01,12368.4,34712.01,22343.61,Smartphone,Electronics,CUST1002,Small Business,West,Mumbai,3,Completed,August,Q3,2025,Profit
+TXN100070,8/6/2025,305695.68,159043.58,26743.24,146652.1,119908.86,Laptop,Electronics,CUST1004,Consumer,South,Bengaluru,5,Completed,August,Q3,2025,Profit
+TXN100475,8/6/2025,12328.32,9560.76,1201.97,2767.56,1565.59,Headphones,Accessories,CUST1089,Consumer,South,Chennai,3,Completed,August,Q3,2025,Profit
+TXN100218,8/6/2025,1927.1,1140.26,320.82,786.84,466.02,Keyboard,Accessories,CUST1017,Corporate,West,Ahmedabad,1,Cancelled,August,Q3,2025,Profit
+TXN100130,8/6/2025,29899.72,17610.96,2677.65,12288.76,9611.11,Smartphone,Electronics,CUST1097,Consumer,West,Pune,1,Completed,August,Q3,2025,Profit
+TXN100332,8/8/2025,77535.82,54533.75,9309.64,23002.07,13692.43,Smartphone,Electronics,CUST1093,Corporate,West,Ahmedabad,3,Completed,August,Q3,2025,Profit
+TXN100698,8/8/2025,4832.46,3383.44,633.76,1449.02,815.26,Headphones,Accessories,CUST1139,Corporate,North,Delhi,1,Completed,August,Q3,2025,Profit
+TXN100706,8/8/2025,31864,22530.73,3488.33,9333.27,5844.94,Monitor,Electronics,CUST1106,Consumer,West,Pune,2,Completed,August,Q3,2025,Profit
+TXN100643,8/8/2025,63496.56,49421.3,5666.26,14075.26,8409,Laptop,Electronics,CUST1067,Consumer,South,Bengaluru,1,Completed,August,Q3,2025,Profit
+TXN100209,8/8/2025,9630.12,6499.92,781.37,3130.2,2348.83,Headphones,Accessories,CUST1136,Consumer,West,Mumbai,2,Pending,August,Q3,2025,Profit
+TXN100469,8/8/2025,16563.85,11304.74,2322.56,5259.11,2936.55,Monitor,Electronics,CUST1007,Corporate,West,Surat,1,Completed,August,Q3,2025,Profit
+TXN100596,8/9/2025,27494.54,16740.18,2479.36,10754.36,8275,Smartphone,Electronics,UNKNOWN,Consumer,West,Pune,1,Completed,August,Q3,2025,Profit
+TXN100776,8/10/2025,177638.9,112246.87,17802.54,65392.03,47589.49,Laptop,Electronics,CUST1076,Consumer,West,Pune,3,Cancelled,August,Q3,2025,Profit
+TXN100481,8/10/2025,15816.46,11263.91,2301.56,4552.55,2250.99,Monitor,Electronics,CUST1079,Corporate,West,Mumbai,1,Pending,August,Q3,2025,Profit
+TXN100145,8/10/2025,60246.33,44820.63,9827.18,15425.7,5598.52,Smartphone,Electronics,CUST1018,Corporate,South,Chennai,2,Cancelled,August,Q3,2025,Profit
+TXN100591,8/11/2025,1227.76,927.69,93.43,300.07,206.64,Mouse,Accessories,CUST1039,Consumer,South,Hyderabad,1,Pending,August,Q3,2025,Profit
+TXN100491,8/11/2025,11646.81,7308.54,866.28,4338.27,3471.99,Office Chair,Furniture,CUST1135,Consumer,West,Ahmedabad,1,Completed,August,Q3,2025,Profit
+TXN100355,8/11/2025,977.22,648.19,115.51,329.03,213.52,Mouse,Accessories,CUST1001,Consumer,West,Pune,1,Pending,August,Q3,2025,Profit
+TXN100575,8/11/2025,187557.02,146180.96,18566.39,41376.06,22809.67,Laptop,Electronics,CUST1116,Consumer,South,Bengaluru,3,Completed,August,Q3,2025,Profit
+TXN100212,8/12/2025,4992.39,3003.58,837.35,1988.81,1151.46,Headphones,Accessories,CUST1113,Small Business,West,Mumbai,1,Completed,August,Q3,2025,Profit
+TXN100726,8/12/2025,61157.66,36674.03,5305.54,24483.63,19178.09,Monitor,Electronics,CUST1169,Consumer,West,Mumbai,4,Completed,August,Q3,2025,Profit
+TXN100551,8/12/2025,42705.12,28182.7,5494.68,14522.42,9027.74,Headphones,Accessories,CUST1173,Corporate,North,Jaipur,10,Completed,August,Q3,2025,Profit
+TXN100684,8/12/2025,25209.63,18402.59,3904.02,6807.04,2903.02,Smartphone,Electronics,CUST1023,Consumer,West,Ahmedabad,1,Cancelled,August,Q3,2025,Profit
+TXN100213,8/13/2025,72343.58,52168.41,12863.56,20175.17,7311.61,Laptop,Electronics,CUST1141,Consumer,North,Delhi,1,Completed,August,Q3,2025,Profit
+TXN100175,8/13/2025,154648.2,100804.84,21000.05,53843.36,32843.31,Smartphone,Electronics,CUST1008,Consumer,North,Delhi,6,Completed,August,Q3,2025,Profit
+TXN100186,8/13/2025,28368.7,21878.6,2383.54,6490.1,4106.56,Monitor,Electronics,CUST1110,Consumer,West,Pune,2,Completed,August,Q3,2025,Profit
+TXN100790,8/14/2025,103834.78,72624.08,11727.25,31210.7,19483.45,Smartphone,Electronics,CUST1051,Consumer,West,Ahmedabad,4,Completed,August,Q3,2025,Profit
+TXN100318,8/14/2025,49547.94,31870.2,7372.92,17677.74,10304.82,Desk,Furniture,CUST1008,Corporate,South,Chennai,3,Completed,August,Q3,2025,Profit
+TXN100125,8/15/2025,29492.67,20665.14,3187.3,8827.53,5640.23,Monitor,Electronics,CUST1010,Consumer,West,Mumbai,2,Returned,August,Q3,2025,Profit
+TXN100543,8/15/2025,28563.06,18196.42,2799.82,10366.64,7566.82,Monitor,Electronics,CUST1128,Consumer,West,Ahmedabad,2,Completed,August,Q3,2025,Profit
+TXN100670,8/15/2025,1690.56,1081.11,235.22,609.45,374.23,Keyboard,Accessories,CUST1109,Consumer,North,Delhi,1,Completed,August,Q3,2025,Profit
+TXN100287,8/15/2025,34022.27,22978.43,5622.88,11043.84,5420.96,Desk,Furniture,CUST1154,Corporate,North,Jaipur,2,Cancelled,August,Q3,2025,Profit
+TXN100701,8/16/2025,27583.51,17274.82,3232.27,10308.69,7076.42,Smartphone,Electronics,CUST1043,Consumer,South,Chennai,1,Completed,August,Q3,2025,Profit
+TXN100783,8/17/2025,52903.89,36516.4,5973.35,16387.49,10414.14,Smartphone,Electronics,CUST1168,Corporate,North,Jaipur,2,Completed,August,Q3,2025,Profit
+TXN100668,8/17/2025,81112.49,45642.83,10172.25,35469.66,25297.41,Smartphone,Electronics,CUST1140,Consumer,West,Pune,3,Pending,August,Q3,2025,Profit
+TXN100439,8/17/2025,15423.25,11699.48,2399.23,3723.77,1324.54,Smartwatch,Accessories,CUST1022,Consumer,West,Surat,2,Pending,August,Q3,2025,Profit
+TXN100312,8/18/2025,10680.92,6885,961.17,3795.92,2834.75,Office Chair,Furniture,CUST1079,Consumer,West,Ahmedabad,1,Completed,August,Q3,2025,Profit
+TXN100605,8/18/2025,28882.62,15493.43,3963.43,13389.19,9425.76,Printer,Electronics,CUST1127,Consumer,South,Bengaluru,2,Returned,August,Q3,2025,Profit
+TXN100146,8/19/2025,48666.01,27591.42,3694.94,21074.59,17379.65,Office Chair,Furniture,CUST1150,Small Business,West,Mumbai,4,Completed,August,Q3,2025,Profit
+TXN100141,8/19/2025,213003.11,153361.82,29546.3,59641.29,30094.99,Smartphone,Electronics,CUST1178,Consumer,West,Ahmedabad,8,Completed,August,Q3,2025,Profit
+TXN100173,8/19/2025,80026.16,45853.33,10208.64,34172.83,23964.19,Desk,Furniture,CUST1041,Consumer,South,Bengaluru,4,Completed,August,Q3,2025,Profit
+TXN100108,8/19/2025,32144.61,20171.47,2681.1,11973.14,9292.04,Smartwatch,Accessories,CUST1095,Corporate,West,Mumbai,4,Completed,August,Q3,2025,Profit
+TXN100674,8/21/2025,178561.19,116302.27,31912.59,62258.92,30346.33,Smartphone,Electronics,CUST1163,Consumer,West,Pune,6,Completed,August,Q3,2025,Profit
+TXN100271,8/21/2025,66251.31,47897.33,8891.92,18353.98,9462.06,Desk,Furniture,CUST1010,Consumer,West,Ahmedabad,4,Returned,August,Q3,2025,Profit
+TXN100337,8/21/2025,86398.87,66060.67,13422.09,20338.2,6916.11,Smartphone,Electronics,CUST1124,Corporate,West,Ahmedabad,3,Completed,August,Q3,2025,Profit
+TXN100179,8/21/2025,29744.39,23108.33,5031.04,6636.06,1605.02,Smartphone,Electronics,CUST1131,Small Business,West,Mumbai,1,Completed,August,Q3,2025,Profit
+TXN100194,8/21/2025,13993.21,10734.72,1904.08,3258.49,1354.41,Headphones,Accessories,CUST1001,Consumer,West,Ahmedabad,3,Completed,August,Q3,2025,Profit
+TXN100570,8/21/2025,7732.15,5564.2,638.18,2167.95,1529.77,Keyboard,Accessories,UNKNOWN,Consumer,North,Jaipur,4,Completed,August,Q3,2025,Profit
+TXN100188,8/22/2025,4877.11,2842.83,348.05,2034.28,1686.23,Keyboard,Accessories,CUST1089,Corporate,West,Ahmedabad,3,Completed,August,Q3,2025,Profit
+TXN100597,8/23/2025,5358.27,2935.41,835.23,2422.86,1587.63,Backpack,Accessories,CUST1144,Corporate,West,Surat,2,Cancelled,August,Q3,2025,Profit
+TXN100820,8/23/2025,16022.68,10539.2,2205.35,5483.48,3278.13,Printer,Electronics,CUST1093,Consumer,East,Kolkata,1,Completed,August,Q3,2025,Profit
+TXN100028,8/24/2025,31372.77,24153.21,2709.13,7219.56,4510.43,Smartwatch,Accessories,CUST1063,Consumer,North,Delhi,4,Completed,August,Q3,2025,Profit
+TXN100775,8/24/2025,100656.48,55118.86,12502.13,45537.62,33035.49,Smartphone,Electronics,CUST1131,Small Business,South,Hyderabad,4,Completed,August,Q3,2025,Profit
+TXN100084,8/25/2025,52283.51,33082.41,3910.95,19201.1,15290.15,Office Chair,Furniture,CUST1198,Consumer,West,Mumbai,4,Completed,August,Q3,2025,Profit
+TXN100147,8/25/2025,2279.04,1615.28,364.55,663.76,299.21,Backpack,Accessories,CUST1151,Consumer,South,Hyderabad,1,Completed,August,Q3,2025,Profit
+TXN100455,8/25/2025,79882.27,46850.42,8468.82,33031.85,24563.03,Smartphone,Electronics,CUST1080,Corporate,North,Delhi,100,Completed,August,Q3,2025,Profit
+TXN100473,8/26/2025,4698.55,3594.09,483.06,1104.46,621.4,Backpack,Accessories,CUST1096,Corporate,North,Jaipur,2,Completed,August,Q3,2025,Profit
+TXN100309,8/26/2025,52116.2,36223.06,5987.79,15893.14,9905.35,Monitor,Electronics,CUST1160,Corporate,East,Kolkata,3,Cancelled,August,Q3,2025,Profit
+TXN100727,8/27/2025,319904.9,182390.04,29118.26,137514.86,108396.6,Laptop,Electronics,CUST1156,Consumer,North,Delhi,5,Completed,August,Q3,2025,Profit
+TXN100448,8/27/2025,38031.71,19886.04,5716.89,18145.67,12428.78,Smartwatch,Accessories,CUST1026,Corporate,West,Ahmedabad,4,Completed,August,Q3,2025,Profit
+TXN100600,8/27/2025,55432.08,30201.91,9356.72,25230.17,15873.45,Smartphone,Electronics,CUST1131,Corporate,South,Bengaluru,2,Cancelled,August,Q3,2025,Profit
+TXN100232,8/28/2025,28870.63,15420.56,4398.47,13450.07,9051.6,Smartphone,Electronics,CUST1093,Consumer,West,Pune,1,Completed,August,Q3,2025,Profit
+TXN100707,8/28/2025,53349.2,34113.08,8534.59,19236.12,10701.53,Smartphone,Electronics,CUST1053,Corporate,North,Delhi,2,Cancelled,August,Q3,2025,Profit
+TXN100822,8/28/2025,25091.72,15291.76,2521.68,9799.96,7278.28,Office Chair,Furniture,CUST1078,Corporate,South,Hyderabad,2,Returned,August,Q3,2025,Profit
+TXN100142,8/29/2025,72173.29,46504.6,12164.06,25668.69,13504.63,Laptop,Electronics,CUST1164,Consumer,West,Mumbai,1,Completed,August,Q3,2025,Profit
+TXN100642,8/30/2025,209125.45,134103.24,22958.48,75022.21,52063.73,Laptop,Electronics,CUST1157,Small Business,West,Pune,3,Completed,August,Q3,2025,Profit
+TXN100523,8/30/2025,19592.17,13064.18,2484.86,6527.99,4043.13,Keyboard,Accessories,CUST1089,Consumer,West,Mumbai,10,Completed,August,Q3,2025,Profit
+TXN100052,8/30/2025,392708.52,300091.2,61995.38,92617.32,30621.94,Laptop,Electronics,CUST1029,Consumer,South,Chennai,6,Returned,August,Q3,2025,Profit
+TXN100718,8/30/2025,8131.78,5342.36,620.3,2789.42,2169.12,Headphones,Accessories,CUST1042,Small Business,West,Mumbai,2,Completed,August,Q3,2025,Profit
+TXN100156,8/31/2025,140580.24,89191.38,12120.8,51388.86,39268.06,Smartphone,Electronics,CUST1183,Corporate,South,Bengaluru,5,Completed,August,Q3,2025,Profit
+TXN100040,9/1/2025,16431.35,12389.32,2729.71,4042.03,1312.32,Desk,Furniture,CUST1012,Consumer,South,Bengaluru,1,Completed,September,Q3,2025,Profit
+TXN100486,9/3/2025,30453.94,23704.85,3185.76,6749.09,3563.33,Printer,Electronics,CUST1110,Small Business,North,Delhi,2,Completed,September,Q3,2025,Profit
+TXN100371,9/3/2025,143675.45,105295.78,25601.87,38379.67,12777.8,Laptop,Electronics,CUST1186,Corporate,West,Ahmedabad,2,Completed,September,Q3,2025,Profit
+TXN100803,9/4/2025,3890.25,2173.27,467.52,1716.98,1249.46,Keyboard,Accessories,CUST1085,Consumer,West,Pune,2,Completed,September,Q3,2025,Profit
+TXN100375,9/4/2025,15793.33,8281.34,2285.48,7511.99,5226.51,Smartwatch,Accessories,CUST1151,Corporate,South,Bengaluru,2,Completed,September,Q3,2025,Profit
+TXN100462,9/4/2025,3215.06,1824.35,566.41,1390.71,824.3,Keyboard,Accessories,CUST1106,Consumer,West,Ahmedabad,2,Completed,September,Q3,2025,Profit
+TXN100221,9/4/2025,40286.5,21571.91,2834.09,18714.59,15880.5,Office Chair,Furniture,CUST1096,Corporate,North,Delhi,3,Completed,September,Q3,2025,Profit
+TXN100501,9/4/2025,3365.84,2256.9,255.79,1108.94,853.15,Mouse,Accessories,CUST1155,Consumer,West,Ahmedabad,3,Completed,September,Q3,2025,Profit
+TXN100824,9/6/2025,75035.85,41839.29,10991.13,33196.56,22205.43,Smartphone,Electronics,CUST1189,Consumer,West,Pune,3,Completed,September,Q3,2025,Profit
+TXN100539,9/6/2025,71749.85,46173.05,8069.39,25576.8,17507.41,Printer,Electronics,CUST1113,Corporate,North,Delhi,5,Returned,September,Q3,2025,Profit
+TXN100799,9/6/2025,91400.33,70167.57,10468.5,21232.76,10764.26,Smartphone,Electronics,CUST1197,Corporate,West,Ahmedabad,3,Completed,September,Q3,2025,Profit
+TXN100484,9/7/2025,13447.14,10460.41,2348.59,2986.73,638.14,Backpack,Accessories,CUST1128,Consumer,West,Ahmedabad,6,Completed,September,Q3,2025,Profit
+TXN100492,9/7/2025,121486.66,66831.51,17938.14,54655.15,36717.01,Smartphone,Electronics,CUST1122,Corporate,East,Kolkata,4,Completed,September,Q3,2025,Profit
+TXN100768,9/7/2025,22887.63,16451.8,2318.88,6435.83,4116.95,Smartwatch,Accessories,CUST1156,Consumer,North,Delhi,3,Cancelled,September,Q3,2025,Profit
+TXN100777,9/8/2025,190432.02,106523.67,22585.88,83908.35,61322.47,Laptop,Electronics,CUST1139,Corporate,West,Mumbai,3,Completed,September,Q3,2025,Profit
+TXN100719,9/8/2025,122088.88,89651.05,16131.92,32437.83,16305.91,Tablet,Electronics,CUST1198,Corporate,North,Delhi,5,Completed,September,Q3,2025,Profit
+TXN100089,9/9/2025,46535.22,30400.53,5371.72,16134.69,10762.97,Monitor,Electronics,CUST1041,Corporate,West,Pune,3,Completed,September,Q3,2025,Profit
+TXN100789,9/9/2025,54061.86,35367,5597.14,18694.86,13097.72,Smartphone,Electronics,CUST1171,Consumer,West,Ahmedabad,2,Completed,September,Q3,2025,Profit
+TXN100259,9/9/2025,16351.93,9731.2,1860.23,6620.73,4760.5,Headphones,Accessories,CUST1129,Consumer,West,Ahmedabad,4,Cancelled,September,Q3,2025,Profit
+TXN100667,9/9/2025,140891.18,84663.01,13102.37,56228.17,43125.8,Monitor,Electronics,CUST1172,Consumer,West,Pune,8,Pending,September,Q3,2025,Profit
+TXN100079,9/9/2025,138605.11,105994.34,10806.46,32610.77,21804.31,Laptop,Electronics,CUST1158,Consumer,West,Pune,2,Completed,September,Q3,2025,Profit
+TXN100242,9/9/2025,124064.98,65527.36,18731.58,58537.62,39806.04,Smartphone,Electronics,CUST1012,Small Business,South,Hyderabad,4,Completed,September,Q3,2025,Profit
+TXN100629,9/9/2025,2468.5,1349.02,177.12,1119.48,942.36,Backpack,Accessories,CUST1188,Corporate,South,Hyderabad,1,Completed,September,Q3,2025,Profit
+TXN100522,9/10/2025,57043.12,38129.67,6078.91,18913.45,12834.54,Smartphone,Electronics,CUST1125,Consumer,West,Pune,2,Completed,September,Q3,2025,Profit
+TXN100604,9/10/2025,129240.45,76663.38,10042.96,52577.07,42534.11,Office Chair,Furniture,CUST1064,Consumer,West,Pune,10,Completed,September,Q3,2025,Profit
+TXN100348,9/10/2025,1193.64,671.99,195.72,521.65,325.93,Mouse,Accessories,CUST1150,Consumer,South,Bengaluru,1,Completed,September,Q3,2025,Profit
+TXN100710,9/10/2025,27689.52,17811.74,1950.77,9877.78,7927.01,Smartwatch,Accessories,CUST1152,Consumer,South,Bengaluru,3,Completed,September,Q3,2025,Profit
+TXN100027,9/10/2025,17316.74,9749.9,1276.71,7566.84,6290.13,Smartwatch,Accessories,CUST1029,Small Business,West,Ahmedabad,2,Completed,September,Q3,2025,Profit
+TXN100286,9/11/2025,86993.86,51285.01,6234.17,35708.85,29474.68,Smartphone,Electronics,CUST1027,Corporate,West,Ahmedabad,3,Returned,September,Q3,2025,Profit
+TXN100480,9/11/2025,79775.95,42221.7,14309.92,37554.25,23244.33,Tablet,Electronics,CUST1087,Corporate,West,Mumbai,4,Completed,September,Q3,2025,Profit
+TXN100266,9/11/2025,61735.98,45341.67,7823.34,16394.31,8570.97,Monitor,Electronics,CUST1181,Corporate,West,Ahmedabad,4,Completed,September,Q3,2025,Profit
+TXN100131,9/12/2025,12872.26,8781.62,1647.32,4090.64,2443.32,Headphones,Accessories,CUST1063,Corporate,West,Surat,3,Completed,September,Q3,2025,Profit
+TXN100780,9/12/2025,81022.55,47062.36,6115.25,33960.19,27844.94,Smartphone,Electronics,CUST1159,Small Business,South,Chennai,80,Unknown,September,Q3,2025,Profit
+TXN100226,9/12/2025,135847.08,71505.77,14083.96,64341.31,50257.35,Laptop,Electronics,CUST1142,Corporate,West,Mumbai,2,Completed,September,Q3,2025,Profit
+TXN100712,9/13/2025,70857.59,50618.91,12752.43,20238.68,7486.25,Office Chair,Furniture,CUST1150,Corporate,South,Chennai,6,Completed,September,Q3,2025,Profit
+TXN100350,9/13/2025,8852.44,5110.79,832.15,3741.65,2909.5,Smartwatch,Accessories,CUST1127,Corporate,South,Chennai,1,Pending,September,Q3,2025,Profit
+TXN100495,9/14/2025,106888.06,59257.66,9794.76,47630.4,37835.64,Tablet,Electronics,CUST1170,Corporate,West,Ahmedabad,5,Completed,September,Q3,2025,Profit
+TXN100128,9/14/2025,7391.12,4046.44,1038.39,3344.68,2306.29,Backpack,Accessories,CUST1130,Consumer,West,Pune,3,Completed,September,Q3,2025,Profit
+TXN100019,9/15/2025,15244.94,9885.36,2332.63,5359.58,3026.95,Printer,Electronics,CUST1141,Consumer,South,Bengaluru,1,Completed,September,Q3,2025,Profit
+TXN100502,9/15/2025,26506.03,16140.97,4658.98,10365.06,5706.08,Headphones,Accessories,CUST1181,Corporate,West,Mumbai,6,Completed,September,Q3,2025,Profit
+TXN100747,9/16/2025,1022.17,660.98,170.3,361.19,190.89,Mouse,Accessories,CUST1147,Corporate,West,Mumbai,1,Completed,September,Q3,2025,Profit
+TXN100180,9/16/2025,1621.66,1146.45,188.46,475.21,286.75,Keyboard,Accessories,CUST1051,Consumer,North,Delhi,1,Cancelled,September,Q3,2025,Profit
+TXN100680,9/16/2025,15182.1,8761.85,1812.73,6420.25,4607.52,Keyboard,Accessories,CUST1190,Consumer,West,Mumbai,8,Pending,September,Q3,2025,Profit
+TXN100771,9/16/2025,2454.57,1903.73,421.57,550.84,129.27,Mouse,Accessories,CUST1070,Consumer,North,Delhi,2,Pending,September,Q3,2025,Profit
+TXN100240,9/16/2025,98023.38,52302.5,14217.44,45720.88,31503.44,Tablet,Electronics,CUST1065,Consumer,South,Hyderabad,4,Completed,September,Q3,2025,Profit
+TXN100067,9/17/2025,15739.8,11622.77,1780.75,4117.03,2336.28,Monitor,Electronics,CUST1037,Consumer,West,Ahmedabad,1,Completed,September,Q3,2025,Profit
+TXN100760,9/17/2025,57736.71,40520.86,8557.93,17215.85,8657.92,Smartphone,Electronics,CUST1184,Corporate,North,Delhi,2,Completed,September,Q3,2025,Profit
+TXN100107,9/18/2025,28788.6,18885.38,4137.23,9903.22,5765.99,Smartphone,Electronics,CUST1156,Consumer,West,Pune,1,Unknown,September,Q3,2025,Profit
+TXN100419,9/19/2025,2377.4,1812.68,303.25,564.72,261.47,Backpack,Accessories,CUST1134,Consumer,West,Pune,1,Completed,September,Q3,2025,Profit
+TXN100816,9/19/2025,268748.1,148126.13,33106.39,120621.97,87515.58,Laptop,Electronics,CUST1120,Consumer,West,Mumbai,4,Completed,September,Q3,2025,Profit
+TXN100258,9/20/2025,23626.66,13378.62,2991.49,10248.04,7256.55,Tablet,Electronics,CUST1022,Corporate,North,Delhi,1,Pending,September,Q3,2025,Profit
+TXN100528,9/21/2025,13177.42,9457.49,1902.87,3719.93,1817.06,Office Chair,Furniture,CUST1085,Consumer,West,Ahmedabad,1,Completed,September,Q3,2025,Profit
+TXN100386,9/21/2025,51942.4,27897.22,8704.67,24045.18,15340.51,Smartphone,Electronics,CUST1116,Consumer,West,Pune,2,Completed,September,Q3,2025,Profit
+TXN100058,9/21/2025,16070.12,10852.01,2053.01,5218.11,3165.1,Monitor,Electronics,CUST1163,Corporate,South,Bengaluru,1,Completed,September,Q3,2025,Profit
+TXN100412,9/21/2025,3021.39,1643.47,482.46,1377.92,895.46,Mouse,Accessories,CUST1035,Consumer,West,Ahmedabad,3,Cancelled,September,Q3,2025,Profit
+TXN100315,9/21/2025,5332.68,3649.24,429.23,1683.44,1254.21,Mouse,Accessories,CUST1048,Small Business,West,Mumbai,5,Completed,September,Q3,2025,Profit
+TXN100053,9/22/2025,52304.76,40581.26,8081.61,11723.5,3641.89,Monitor,Electronics,CUST1103,Consumer,West,Pune,3,Completed,September,Q3,2025,Profit
+TXN100572,9/22/2025,39066.22,21373.97,3359.96,17692.25,14332.29,Smartwatch,Accessories,CUST1094,Corporate,West,Ahmedabad,5,Pending,September,Q3,2025,Profit
+TXN100729,9/24/2025,430248.5,266636.84,53390.04,163611.66,110221.62,Laptop,Electronics,CUST1058,Consumer,West,Pune,6,Cancelled,September,Q3,2025,Profit
+TXN100254,9/24/2025,52790.5,40531.76,6729.7,12258.74,5529.04,Desk,Furniture,CUST1101,Corporate,West,Ahmedabad,3,Completed,September,Q3,2025,Profit
+TXN100773,9/25/2025,27530.78,20579.32,2840.08,6951.46,4111.38,Smartphone,Electronics,CUST1001,Corporate,East,Kolkata,1,Completed,September,Q3,2025,Profit
+TXN100511,9/25/2025,95340.21,54083.89,11187.04,41256.32,30069.28,Tablet,Electronics,CUST1023,Consumer,South,Chennai,4,Completed,September,Q3,2025,Profit
+TXN100199,9/25/2025,4256.71,2650.18,495.49,1606.53,1111.04,Headphones,Accessories,CUST1200,Small Business,North,Jaipur,1,Completed,September,Q3,2025,Profit
+TXN100114,9/25/2025,93833.76,52122.25,13743.45,41711.51,27968.06,Smartphone,Electronics,CUST1118,Corporate,West,Mumbai,3,Completed,September,Q3,2025,Profit
+TXN100553,9/25/2025,9209.11,5709.41,996.11,3499.7,2503.59,Backpack,Accessories,CUST1015,Consumer,North,Delhi,4,Completed,September,Q3,2025,Profit
+TXN100427,9/26/2025,67073.76,35610.17,7378.18,31463.59,24085.41,Desk,Furniture,CUST1008,Corporate,West,Ahmedabad,4,Completed,September,Q3,2025,Profit
+TXN100074,9/27/2025,7895.55,4292.83,686.14,3602.72,2916.58,Smartwatch,Accessories,CUST1050,Consumer,West,Pune,1,Completed,September,Q3,2025,Profit
+TXN100034,9/28/2025,30169.87,17296.26,3084.76,12873.61,9788.85,Printer,Electronics,CUST1007,Small Business,South,Chennai,2,Cancelled,September,Q3,2025,Profit
+TXN100003,9/28/2025,3474.65,1863.14,299.69,1611.51,1311.82,Mouse,Accessories,CUST1003,Corporate,West,Mumbai,3,Completed,September,Q3,2025,Profit
+TXN100409,9/28/2025,31689.61,18719.31,2977.81,12970.3,9992.49,Desk,Furniture,CUST1104,Small Business,North,Jaipur,2,Completed,September,Q3,2025,Profit
+TXN100077,9/28/2025,9389.79,5848.35,1664.03,3541.44,1877.41,Headphones,Accessories,CUST1011,Consumer,West,Surat,2,Completed,September,Q3,2025,Profit
+TXN100456,9/29/2025,85773.91,54113.9,11810.75,31660.01,19849.26,Smartphone,Electronics,CUST1039,Consumer,West,Mumbai,3,Completed,September,Q3,2025,Profit
+TXN100685,9/29/2025,117124.9,63672.36,19210.15,53452.54,34242.39,Tablet,Electronics,CUST1031,Consumer,South,Hyderabad,6,Completed,September,Q3,2025,Profit
+TXN100812,9/30/2025,3935.41,2906.52,480.19,1028.89,548.7,Unknown,Accessories,CUST1029,Corporate,South,Bengaluru,2,Completed,September,Q3,2025,Profit
+TXN100368,9/30/2025,176553.93,131883.14,22518.7,44670.79,22152.09,Laptop,Electronics,CUST1040,Consumer,West,Ahmedabad,3,Completed,September,Q3,2025,Profit
+TXN100561,9/30/2025,15696.47,10040.81,1474.44,5655.66,4181.22,Printer,Electronics,CUST1074,Small Business,West,Ahmedabad,1,Completed,September,Q3,2025,Profit
+TXN100048,10/1/2025,182410.84,117296.49,19046.25,65114.35,46068.1,Desk,Furniture,CUST1007,Corporate,West,Ahmedabad,10,Completed,October,Q4,2025,Profit
+TXN100630,10/2/2025,61813.21,43612.41,10267.46,18200.8,7933.34,Tablet,Electronics,CUST1007,Consumer,South,Bengaluru,3,Completed,October,Q4,2025,Profit
+TXN100435,10/2/2025,49475.78,28909.88,8177.96,20565.9,12387.94,Smartphone,Electronics,CUST1179,Consumer,South,Hyderabad,2,Completed,October,Q4,2025,Profit
+TXN100319,10/4/2025,46260.12,32767.41,7033.06,13492.71,6459.65,Smartwatch,Accessories,CUST1002,Corporate,West,Ahmedabad,5,Completed,October,Q4,2025,Profit
+TXN100538,10/4/2025,3498.26,2101.71,442.86,1396.55,953.69,Mouse,Accessories,UNKNOWN,Corporate,West,Ahmedabad,3,Pending,October,Q4,2025,Profit
+TXN100842,10/4/2025,57340.03,41393,8739.04,15947.03,7207.99,Smartphone,Electronics,CUST1145,Small Business,West,Pune,2,Completed,October,Q4,2025,Profit
+TXN100023,10/4/2025,53131.53,36626.51,8226.73,16505.02,8278.29,Office Chair,Furniture,CUST1137,Small Business,West,Ahmedabad,5,Completed,October,Q4,2025,Profit
+TXN100301,10/4/2025,82538.56,50935.8,8242.7,31602.76,23360.06,Monitor,Electronics,CUST1113,Corporate,West,Ahmedabad,5,Completed,October,Q4,2025,Profit
+TXN100460,10/5/2025,60467.51,37987.4,6604.43,22480.11,15875.68,Laptop,Electronics,CUST1073,Small Business,West,Ahmedabad,1,Cancelled,October,Q4,2025,Profit
+TXN100442,10/6/2025,58064.49,35192.78,8956.85,22871.71,13914.86,Laptop,Electronics,CUST1068,Corporate,West,Mumbai,1,Completed,October,Q4,2025,Profit
+TXN100556,10/6/2025,11214.7,6965.22,947.14,4249.48,3302.34,Keyboard,Accessories,UNKNOWN,Consumer,West,Mumbai,6,Completed,October,Q4,2025,Profit
+TXN100499,10/7/2025,143293.06,80536.52,25254.19,62756.54,37502.35,Laptop,Electronics,CUST1085,Consumer,West,Pune,2,Completed,October,Q4,2025,Profit
+TXN100361,10/7/2025,40236.92,22411.42,4202.66,17825.5,13622.84,Smartwatch,Accessories,CUST1170,Consumer,West,Mumbai,5,Pending,October,Q4,2025,Profit
+TXN100339,10/7/2025,201142.39,127524.02,25803.94,73618.37,47814.43,Smartphone,Electronics,CUST1040,Consumer,West,Pune,8,Returned,October,Q4,2025,Profit
+TXN100228,10/7/2025,27575.22,16005.21,2782.63,11570.01,8787.38,Printer,Electronics,CUST1120,Consumer,West,Ahmedabad,2,Pending,October,Q4,2025,Profit
+TXN100087,10/7/2025,7389.51,5235.96,912.85,2153.55,1240.7,Backpack,Accessories,CUST1162,Small Business,West,Ahmedabad,3,Pending,October,Q4,2025,Profit
+TXN100832,10/8/2025,3131.16,1867.25,356.81,1263.91,907.1,Mouse,Accessories,CUST1141,Consumer,North,Delhi,3,Pending,October,Q4,2025,Profit
+TXN100354,10/8/2025,93552.31,49752.77,13202.67,43799.54,30596.87,Tablet,Electronics,CUST1143,Consumer,North,Jaipur,4,Completed,October,Q4,2025,Profit
+TXN100731,10/9/2025,82307.98,63726.29,7577.45,18581.69,11004.24,Smartphone,Electronics,CUST1175,Small Business,South,Bengaluru,3,Completed,October,Q4,2025,Profit
+TXN100611,10/10/2025,32983.27,24268.57,3816.79,8714.7,4897.91,Monitor,Electronics,CUST1013,Consumer,North,Delhi,2,Completed,October,Q4,2025,Profit
+TXN100316,10/10/2025,344636.27,251164.21,43762.22,93472.06,49709.84,Laptop,Electronics,CUST1192,Corporate,South,Bengaluru,5,Completed,October,Q4,2025,Profit
+TXN100133,10/10/2025,61253.09,43959.83,5211.54,17293.26,12081.72,Laptop,Electronics,CUST1065,Consumer,West,Pune,1,Completed,October,Q4,2025,Profit
+TXN100736,10/10/2025,114621.41,84022.48,12560.3,30598.93,18038.63,Laptop,Electronics,CUST1177,Consumer,South,Bengaluru,2,Completed,October,Q4,2025,Profit
+TXN100176,10/10/2025,2260.88,1224.72,377.72,1036.16,658.44,Unknown,Accessories,CUST1046,Consumer,North,Jaipur,2,Pending,October,Q4,2025,Profit
+TXN100573,10/11/2025,32795.3,23382.97,4615.66,9412.33,4796.67,Desk,Furniture,CUST1155,Small Business,West,Mumbai,2,Completed,October,Q4,2025,Profit
+TXN100158,10/11/2025,25957.26,16088.22,3449.87,9869.04,6419.17,Office Chair,Furniture,CUST1061,Consumer,South,Bengaluru,2,Completed,October,Q4,2025,Profit
+TXN100164,10/11/2025,124233.91,89533.27,9877.43,34700.64,24823.21,Laptop,Electronics,CUST1160,Corporate,North,Delhi,2,Completed,October,Q4,2025,Profit
+TXN100322,10/11/2025,14419.4,10118.48,1593.61,4300.92,2707.31,Monitor,Electronics,CUST1001,Corporate,South,Bengaluru,1,Completed,October,Q4,2025,Profit
+TXN100518,10/12/2025,133817.5,99235.74,9969.77,34581.76,24611.99,Smartphone,Electronics,CUST1051,Small Business,South,Bengaluru,5,Completed,October,Q4,2025,Profit
+TXN100468,10/12/2025,275713.89,201576.09,47983.17,74137.8,26154.63,Laptop,Electronics,CUST1059,Consumer,East,Kolkata,4,Completed,October,Q4,2025,Profit
+TXN100808,10/12/2025,66260.43,46762.69,11319.32,19497.74,8178.42,Laptop,Electronics,UNKNOWN,Consumer,South,Bengaluru,1,Completed,October,Q4,2025,Profit
+TXN100717,10/13/2025,46966.57,28488.45,3933.23,18478.12,14544.89,Monitor,Electronics,CUST1133,Small Business,South,Hyderabad,3,Completed,October,Q4,2025,Profit
+TXN100320,10/13/2025,511399.64,338970.56,65795.48,172429.08,106633.6,Laptop,Electronics,CUST1195,Consumer,West,Pune,8,Completed,October,Q4,2025,Profit
+TXN100795,10/13/2025,2740.87,1822.49,453.7,918.38,464.68,Backpack,Accessories,CUST1051,Corporate,South,Chennai,1,Pending,October,Q4,2025,Profit
+TXN100169,10/13/2025,4894.12,3373.29,636.22,1520.83,884.61,Backpack,Accessories,CUST1168,Corporate,South,Chennai,2,Completed,October,Q4,2025,Profit
+TXN100560,10/13/2025,10257.58,5570.18,1481.77,4687.4,3205.63,Backpack,Accessories,CUST1045,Corporate,West,Mumbai,4,Completed,October,Q4,2025,Profit
+TXN100761,10/15/2025,419750.82,256060.24,66677.97,163690.58,97012.61,Laptop,Electronics,CUST1024,Consumer,South,Bengaluru,6,Completed,October,Q4,2025,Profit
+TXN100392,10/15/2025,8408.33,6159.1,1449.12,2249.23,800.11,Headphones,Accessories,CUST1028,Corporate,South,Chennai,2,Completed,October,Q4,2025,Profit
+TXN100363,10/15/2025,31876.1,18145.22,2248.95,13730.88,11481.93,Printer,Electronics,CUST1073,Consumer,West,Mumbai,2,Completed,October,Q4,2025,Profit
+TXN100479,10/16/2025,101132.96,58685.31,14928.43,42447.65,27519.22,Monitor,Electronics,CUST1125,Corporate,South,Bengaluru,6,Completed,October,Q4,2025,Profit
+TXN100106,10/16/2025,2588.48,1950.39,250.52,638.09,387.57,Backpack,Accessories,CUST1015,Consumer,West,Ahmedabad,1,Cancelled,October,Q4,2025,Profit
+TXN100723,10/16/2025,66244.9,36534.09,5259.51,29710.81,24451.3,Office Chair,Furniture,CUST1115,Small Business,West,Ahmedabad,6,Cancelled,October,Q4,2025,Profit
+TXN100300,10/16/2025,84716.76,51913.61,9227.08,32803.15,23576.07,Smartphone,Electronics,CUST1153,Consumer,West,Mumbai,3,Pending,October,Q4,2025,Profit
+TXN100489,10/17/2025,10038.51,6801.5,1258.91,3237.01,1978.1,Keyboard,Accessories,CUST1196,Consumer,West,Pune,5,Pending,October,Q4,2025,Profit
+TXN100449,10/17/2025,2289.35,1478.44,265.62,810.91,545.29,Mouse,Accessories,CUST1146,Consumer,West,Surat,2,Completed,October,Q4,2025,Profit
+TXN100627,10/19/2025,7055.76,5143.37,1128.64,1912.39,783.75,Backpack,Accessories,CUST1159,Consumer,West,Pune,3,Returned,October,Q4,2025,Profit
+TXN100119,10/20/2025,239437.82,149999.23,27893.5,89438.59,61545.09,Laptop,Electronics,CUST1012,Corporate,East,Kolkata,4,Pending,October,Q4,2025,Profit
+TXN100227,10/21/2025,128693.55,76944.21,10096.63,51749.34,41652.71,Monitor,Electronics,CUST1124,Consumer,South,Hyderabad,8,Completed,October,Q4,2025,Profit
+TXN100791,10/21/2025,9291.26,6529.69,871.28,2761.57,1890.29,Smartwatch,Accessories,CUST1186,Corporate,North,Delhi,1,Completed,October,Q4,2025,Profit
+TXN100021,10/21/2025,266179.43,195633.28,46714.02,70546.15,23832.13,Laptop,Electronics,CUST1134,Corporate,North,Delhi,4,Completed,October,Q4,2025,Profit
+TXN100200,10/22/2025,37887.23,29099.23,5658.58,8788,3129.42,Desk,Furniture,CUST1174,Corporate,West,Mumbai,2,Pending,October,Q4,2025,Profit
+TXN100081,10/23/2025,110456.61,75145.53,15179.37,35311.08,20131.71,Desk,Furniture,CUST1008,Consumer,East,Kolkata,6,Completed,October,Q4,2025,Profit
+TXN100256,10/25/2025,140294.95,104112.56,21751.3,36182.39,14431.09,Desk,Furniture,CUST1094,Small Business,West,Mumbai,8,Completed,October,Q4,2025,Profit
+TXN100370,10/26/2025,416535.61,292376.07,57425.2,124159.54,66734.34,Laptop,Electronics,CUST1108,Consumer,North,Delhi,6,Pending,October,Q4,2025,Profit
+TXN100625,10/28/2025,53475.94,34745.01,4168.1,18730.93,14562.83,Desk,Furniture,CUST1130,Consumer,South,Bengaluru,3,Completed,October,Q4,2025,Profit
+TXN100094,10/28/2025,2010.25,1109.6,191.83,900.65,708.82,Keyboard,Accessories,CUST1001,Consumer,North,Delhi,1,Completed,October,Q4,2025,Profit
+TXN100521,10/29/2025,8747.03,6183.8,1139.1,2563.23,1424.13,Headphones,Accessories,CUST1002,Consumer,South,Bengaluru,2,Cancelled,October,Q4,2025,Profit
+TXN100341,10/29/2025,23631.64,13191.17,2544.91,10440.47,7895.56,Tablet,Electronics,CUST1127,Consumer,North,Jaipur,1,Pending,October,Q4,2025,Profit
+TXN100781,10/30/2025,127654.65,70634.91,10661.9,57019.74,46357.84,Laptop,Electronics,CUST1117,Small Business,West,Pune,2,Completed,October,Q4,2025,Profit
+TXN100662,10/30/2025,3463.65,1976.22,456.56,1487.43,1030.87,Keyboard,Accessories,CUST1197,Corporate,West,Pune,2,Completed,October,Q4,2025,Profit
+TXN100714,10/30/2025,59935.77,45281.28,10624.19,14654.49,4030.3,Smartphone,Electronics,CUST1079,Consumer,West,Ahmedabad,2,Completed,October,Q4,2025,Profit
+TXN100274,10/31/2025,1645.42,946.91,235.57,698.51,462.94,Keyboard,Accessories,CUST1081,Consumer,West,Mumbai,1,Completed,October,Q4,2025,Profit
+TXN100076,10/31/2025,64868.87,34814.75,8693.52,30054.12,21360.6,Laptop,Electronics,CUST1088,Consumer,North,Jaipur,1,Completed,October,Q4,2025,Profit
+TXN100302,10/31/2025,180672.79,134292.7,26100.62,46380.09,20279.47,Laptop,Electronics,CUST1195,Corporate,West,Mumbai,3,Pending,October,Q4,2025,Profit
+TXN100324,10/31/2025,58241.41,31713.91,8869.03,26527.5,17658.47,Smartphone,Electronics,CUST1125,Corporate,West,Pune,2,Pending,October,Q4,2025,Profit
+TXN100265,10/31/2025,25103.73,19194.41,3157.08,5909.32,2752.24,Smartphone,Electronics,CUST1024,Consumer,South,Chennai,1,Completed,October,Q4,2025,Profit
+TXN100405,11/1/2025,83491.57,53517.06,5970.07,29974.51,24004.44,Printer,Electronics,CUST1176,Consumer,West,Mumbai,6,Completed,November,Q4,2025,Profit
+TXN100675,11/1/2025,108969.17,78887.74,13536,30081.43,16545.43,Smartphone,Electronics,CUST1159,Consumer,North,Delhi,4,Completed,November,Q4,2025,Profit
+TXN100792,11/2/2025,26169.03,15510.29,2198.59,10658.74,8460.15,Smartphone,Electronics,CUST1132,Small Business,West,Ahmedabad,1,Completed,November,Q4,2025,Profit
+TXN100378,11/2/2025,43640.68,26930.62,4280.58,16710.06,12429.48,Smartwatch,Accessories,CUST1032,Small Business,West,Pune,5,Completed,November,Q4,2025,Profit
+TXN100772,11/2/2025,57543.48,30649.17,6863.49,26894.31,20030.82,Monitor,Electronics,CUST1122,Consumer,West,Pune,4,Completed,November,Q4,2025,Profit
+TXN100187,11/3/2025,1222.18,866.45,126.52,355.73,229.21,Mouse,Accessories,CUST1019,Corporate,South,Bengaluru,1,Pending,November,Q4,2025,Profit
+TXN100043,11/3/2025,87590.43,56563.82,8731.91,31026.61,22294.7,Office Chair,Furniture,CUST1081,Consumer,South,Hyderabad,8,Completed,November,Q4,2025,Profit
+TXN100248,11/4/2025,85235.68,61540.27,7888.39,23695.41,15807.02,Smartphone,Electronics,CUST1199,Corporate,North,Delhi,3,Completed,November,Q4,2025,Profit
+TXN100425,11/4/2025,126784.78,80939.35,14662.11,45845.43,31183.32,Laptop,Electronics,CUST1081,Corporate,North,Delhi,2,Completed,November,Q4,2025,Profit
+TXN100798,11/4/2025,57984.91,31800.81,6593,26184.1,19591.1,Desk,Furniture,CUST1030,Small Business,West,Pune,3,Completed,November,Q4,2025,Profit
+TXN100018,11/5/2025,84674.58,63710.18,13272.38,20964.4,7692.02,Smartphone,Electronics,CUST1097,Corporate,West,Ahmedabad,3,Completed,November,Q4,2025,Profit
+TXN100068,11/6/2025,61895.03,43581.82,4791.21,18313.21,13522,Laptop,Electronics,CUST1193,Corporate,South,Hyderabad,1,Completed,November,Q4,2025,Profit
+TXN100294,11/6/2025,3847.77,2398.46,486.73,1449.31,962.58,Keyboard,Accessories,CUST1091,Consumer,West,Mumbai,2,Completed,November,Q4,2025,Profit
+TXN100424,11/7/2025,25407.02,19428.05,4217.36,5978.97,1761.61,Smartphone,Electronics,CUST1179,Consumer,West,Ahmedabad,1,Completed,November,Q4,2025,Profit
+TXN100741,11/7/2025,35616.61,25056.19,5709.07,10560.42,4851.35,Desk,Furniture,CUST1057,Small Business,West,Ahmedabad,2,Completed,November,Q4,2025,Profit
+TXN100716,11/8/2025,8960.9,5831.89,938.68,3129.01,2190.33,Headphones,Accessories,CUST1138,Consumer,West,Surat,2,Unknown,November,Q4,2025,Profit
+TXN100653,11/8/2025,8252.55,6100.43,1162.48,2152.12,989.64,Smartwatch,Accessories,CUST1067,Corporate,South,Hyderabad,1,Completed,November,Q4,2025,Profit
+TXN100381,11/9/2025,3441.53,2045.24,275.5,1396.29,1120.79,Keyboard,Accessories,CUST1114,Consumer,West,Ahmedabad,2,Completed,November,Q4,2025,Profit
+TXN100778,11/9/2025,22817.91,14491.91,3979.01,8326,4346.99,Tablet,Electronics,CUST1145,Small Business,West,Ahmedabad,1,Completed,November,Q4,2025,Profit
+TXN100402,11/10/2025,5000.93,2776.12,433.56,2224.81,1791.25,Headphones,Accessories,CUST1182,Consumer,West,Ahmedabad,1,Cancelled,November,Q4,2025,Profit
+TXN100025,11/10/2025,3693.22,2284.7,560.88,1408.52,847.64,Keyboard,Accessories,CUST1057,Consumer,West,Mumbai,2,Completed,November,Q4,2025,Profit
+TXN100534,11/10/2025,4886.18,2844.46,680.04,2041.72,1361.68,Backpack,Accessories,CUST1053,Consumer,South,Hyderabad,2,Completed,November,Q4,2025,Profit
+TXN100191,11/11/2025,29851.33,19313.14,4511.5,10538.19,6026.69,Monitor,Electronics,CUST1137,Corporate,North,Delhi,2,Completed,November,Q4,2025,Profit
+TXN100735,11/11/2025,11396.26,8540.14,982.03,2856.12,1874.09,Office Chair,Furniture,CUST1047,Consumer,North,Delhi,1,Completed,November,Q4,2025,Profit
+TXN100380,11/12/2025,395338.99,229359.46,49522.93,165979.53,116456.6,Laptop,Electronics,CUST1045,Consumer,West,Pune,6,Completed,November,Q4,2025,Profit
+TXN100050,11/12/2025,58400.47,40940.78,6271.41,17459.69,11188.28,Laptop,Electronics,CUST1108,Consumer,North,Delhi,1,Completed,November,Q4,2025,Profit
+TXN100695,11/12/2025,6515.03,4320.63,1132.91,2194.4,1061.49,Mouse,Accessories,CUST1185,Corporate,West,Ahmedabad,6,Completed,November,Q4,2025,Profit
+TXN100323,11/13/2025,29101.64,19900,4784.11,9201.64,4417.53,Headphones,Accessories,CUST1056,Consumer,West,Mumbai,6,Pending,November,Q4,2025,Profit
+TXN100846,11/13/2025,31306.86,17340.6,4932.94,13966.26,9033.32,Smartphone,Electronics,CUST1047,Corporate,West,Mumbai,1,Completed,November,Q4,2025,Profit
+TXN100647,11/13/2025,25494.54,13987.25,2876.98,11507.29,8630.31,Smartwatch,Accessories,CUST1160,Corporate,West,Mumbai,3,Completed,November,Q4,2025,Profit
+TXN100661,11/13/2025,8732.57,5374.97,1116.5,3357.6,2241.1,Headphones,Accessories,CUST1017,Consumer,South,Bengaluru,2,Pending,November,Q4,2025,Profit
+TXN100197,11/14/2025,62486.23,45531.98,8306,16954.25,8648.25,Laptop,Electronics,CUST1107,Consumer,West,Ahmedabad,1,Completed,November,Q4,2025,Profit
+TXN100184,11/14/2025,47246.1,25293.88,7978.6,21952.22,13973.62,Tablet,Electronics,CUST1134,Small Business,South,Bengaluru,2,Completed,November,Q4,2025,Profit
+TXN100441,11/14/2025,145272.57,101388.88,25333.77,43883.69,18549.92,Laptop,Electronics,CUST1141,Consumer,West,Pune,2,Completed,November,Q4,2025,Profit
+TXN100434,11/15/2025,150965.05,101581.38,16431.23,49383.67,32952.44,Smartphone,Electronics,CUST1022,Consumer,West,Pune,5,Pending,November,Q4,2025,Profit
+TXN100041,11/16/2025,58623.09,42234.24,6825.13,16388.85,9563.72,Office Chair,Furniture,CUST1054,Corporate,West,Pune,5,Completed,November,Q4,2025,Profit
+TXN100385,11/17/2025,38447.69,22651.13,6879.7,15796.56,8916.86,Desk,Furniture,CUST1060,Small Business,South,Bengaluru,2,Completed,November,Q4,2025,Profit
+TXN100620,11/17/2025,157463.23,98582.03,28001.49,58881.2,30879.71,Printer,Electronics,CUST1025,Consumer,West,Mumbai,10,Completed,November,Q4,2025,Profit
+TXN100391,11/18/2025,9451.58,7136.92,1051.2,2314.66,1263.46,Backpack,Accessories,CUST1124,Consumer,North,Delhi,4,Completed,November,Q4,2025,Profit
+TXN100512,11/19/2025,32138.83,22962.69,5207.08,9176.14,3969.06,Monitor,Electronics,CUST1106,Consumer,West,Ahmedabad,2,Completed,November,Q4,2025,Profit
+TXN100351,11/19/2025,144278.25,103168.92,12512.58,41109.33,28596.75,Smartphone,Electronics,CUST1143,Small Business,West,Ahmedabad,5,Completed,November,Q4,2025,Profit
+TXN100358,11/19/2025,3815.5,2411.74,303.83,1403.76,1099.93,Keyboard,Accessories,CUST1115,Consumer,South,Hyderabad,2,Completed,November,Q4,2025,Profit
+TXN100222,11/20/2025,31168.7,17996.61,4698.47,13172.09,8473.62,Smartphone,Electronics,CUST1022,Consumer,West,Mumbai,1,Unknown,November,Q4,2025,Profit
+TXN100487,11/21/2025,1946.96,1397.59,145.44,549.37,403.93,Mouse,Accessories,CUST1198,Consumer,North,Jaipur,2,Pending,November,Q4,2025,Profit
+TXN100229,11/21/2025,61660.3,42331.26,10956.29,19329.04,8372.75,Tablet,Electronics,CUST1053,Consumer,South,Hyderabad,3,Completed,November,Q4,2025,Profit
+TXN100496,11/21/2025,27086.98,19104.26,2471.62,7982.72,5511.1,Smartwatch,Accessories,CUST1186,Corporate,South,Hyderabad,3,Completed,November,Q4,2025,Profit
+TXN100848,11/22/2025,239935.32,129731.33,41615.26,110203.99,68588.73,Laptop,Electronics,CUST1129,Corporate,West,Pune,4,Completed,November,Q4,2025,Profit
+TXN100238,11/22/2025,15852.45,11783.58,1434.05,4068.87,2634.82,Headphones,Accessories,CUST1100,Corporate,West,Ahmedabad,4,Completed,November,Q4,2025,Profit
+TXN100408,11/22/2025,4181.78,2745.85,613.72,1435.93,822.21,Mouse,Accessories,UNKNOWN,Consumer,West,Pune,4,Cancelled,November,Q4,2025,Profit
+TXN100154,11/23/2025,49639.59,26649.61,6641.69,22989.98,16348.29,Monitor,Electronics,CUST1132,Corporate,West,Ahmedabad,3,Completed,November,Q4,2025,Profit
+TXN100097,11/23/2025,67705.55,52280.68,5438.72,15424.87,9986.15,Laptop,Electronics,CUST1096,Corporate,West,Mumbai,1,Completed,November,Q4,2025,Profit
+TXN100623,11/23/2025,62078.38,33085.52,5369.16,28992.86,23623.7,Smartphone,Electronics,CUST1161,Small Business,South,Bengaluru,2,Completed,November,Q4,2025,Profit
+TXN100113,11/24/2025,77517.47,46602.78,7389.51,30914.69,23525.18,Smartphone,Electronics,CUST1011,Consumer,South,Chennai,3,Completed,November,Q4,2025,Profit
+TXN100046,11/25/2025,513261.52,291601.61,66523.37,221659.91,155136.54,Laptop,Electronics,CUST1008,Consumer,South,Hyderabad,8,Pending,November,Q4,2025,Profit
+TXN100515,11/26/2025,10220.12,5824.71,1464.91,4395.41,2930.5,Backpack,Accessories,CUST1127,Small Business,South,Bengaluru,4,Completed,November,Q4,2025,Profit
+TXN100683,11/26/2025,31723.54,19888.94,2727.42,11834.6,9107.18,Printer,Electronics,CUST1093,Consumer,West,Mumbai,2,Completed,November,Q4,2025,Profit
+TXN100811,11/26/2025,69238.26,52465.63,11249.11,16772.63,5523.52,Printer,Electronics,CUST1080,Consumer,West,Mumbai,5,Pending,November,Q4,2025,Profit
+TXN100598,11/27/2025,4579.31,2498.33,546.86,2080.98,1534.12,Headphones,Accessories,CUST1069,Consumer,West,Pune,1,Cancelled,November,Q4,2025,Profit
+TXN100011,11/27/2025,57091.84,31979.1,7018.04,25112.74,18094.7,Smartphone,Electronics,CUST1161,Corporate,West,Ahmedabad,2,Completed,November,Q4,2025,Profit
+TXN100170,11/27/2025,324785.96,197580.99,53893.33,127204.97,73311.64,Laptop,Electronics,CUST1068,Small Business,West,Mumbai,5,Completed,November,Q4,2025,Profit
+TXN100801,12/1/2025,111685.76,67883.38,14566,43802.38,29236.38,Smartphone,Electronics,CUST1073,Small Business,West,Pune,4,Completed,December,Q4,2025,Profit
+TXN100796,12/1/2025,13067.9,8537.45,1487.23,4530.45,3043.22,Office Chair,Furniture,CUST1138,Corporate,West,Mumbai,1,Completed,December,Q4,2025,Profit
+TXN100827,12/2/2025,77224.86,54933.74,7964.62,22291.12,14326.5,Smartphone,Electronics,CUST1169,Consumer,North,Jaipur,3,Completed,December,Q4,2025,Profit
+TXN100500,12/2/2025,23636.2,13312.37,4037.39,10323.83,6286.44,Smartwatch,Accessories,CUST1073,Corporate,South,Chennai,3,Completed,December,Q4,2025,Profit
+TXN100526,12/3/2025,34937.16,23646.71,2751.95,11290.45,8538.5,Headphones,Accessories,CUST1026,Consumer,West,Ahmedabad,8,Completed,December,Q4,2025,Profit
+TXN100085,12/4/2025,150231.33,85914.45,21757.27,64316.88,42559.61,Printer,Electronics,CUST1191,Small Business,West,Mumbai,10,Completed,December,Q4,2025,Profit
+TXN100794,12/4/2025,30232.9,20498.46,3462.2,9734.44,6272.24,Headphones,Accessories,CUST1147,Corporate,West,Mumbai,6,Completed,December,Q4,2025,Profit
+TXN100251,12/4/2025,118589.38,91202.69,15210.58,27386.69,12176.11,Laptop,Electronics,CUST1061,Corporate,West,Ahmedabad,2,Completed,December,Q4,2025,Profit
+TXN100292,12/4/2025,91984.54,48160.7,8952.06,43823.84,34871.78,Printer,Electronics,CUST1069,Consumer,West,Ahmedabad,6,Completed,December,Q4,2025,Profit
+TXN100577,12/5/2025,53558.2,40547.46,6336.17,13010.74,6674.57,Office Chair,Furniture,UNKNOWN,Consumer,North,Delhi,4,Completed,December,Q4,2025,Profit
+TXN100617,12/5/2025,8801.98,5138.76,1310.89,3663.22,2352.33,Smartwatch,Accessories,CUST1091,Small Business,West,Ahmedabad,1,Completed,December,Q4,2025,Profit
+TXN100813,12/6/2025,60852.29,40596.05,5312.16,20256.24,14944.08,Smartphone,Electronics,CUST1121,Small Business,South,Bengaluru,2,Completed,December,Q4,2025,Profit
+TXN100285,12/6/2025,53043.67,35793.52,4717.29,17250.15,12532.86,Printer,Electronics,CUST1020,Consumer,North,Delhi,4,Cancelled,December,Q4,2025,Profit
+TXN100168,12/6/2025,67788.34,39235.77,11060.42,28552.57,17492.15,Tablet,Electronics,CUST1005,Corporate,North,Delhi,3,Completed,December,Q4,2025,Profit
+TXN100504,12/6/2025,69827.38,50926.87,11378.68,18900.51,7521.83,Tablet,Electronics,CUST1049,Small Business,South,Bengaluru,3,Completed,December,Q4,2025,Profit
+TXN100056,12/6/2025,27970.79,21738.56,4245.09,6232.23,1987.14,Smartwatch,Accessories,CUST1072,Small Business,West,Surat,3,Completed,December,Q4,2025,Profit
+TXN100476,12/7/2025,55618.26,40782.97,7862.32,14835.29,6972.97,Office Chair,Furniture,CUST1017,Consumer,West,Pune,5,Completed,December,Q4,2025,Profit
+TXN100730,12/7/2025,203450.53,151224.54,28315.44,52225.99,23910.55,Laptop,Electronics,CUST1086,Consumer,South,Bengaluru,3,Completed,December,Q4,2025,Profit
+TXN100784,12/7/2025,24116.79,16768.13,3368.14,7348.66,3980.52,Tablet,Electronics,CUST1170,Corporate,West,Pune,1,Completed,December,Q4,2025,Profit
+TXN100394,12/8/2025,28483.81,20776.44,4375.62,7707.37,3331.75,Smartphone,Electronics,CUST1148,Consumer,West,Mumbai,1,Completed,December,Q4,2025,Profit
+TXN100404,12/8/2025,58021.72,33374.49,4840.22,24647.23,19807.01,Smartphone,Electronics,CUST1027,Corporate,North,Jaipur,2,Completed,December,Q4,2025,Profit
+TXN100621,12/8/2025,401582.41,222816.58,33224.36,178765.83,145541.47,Unknown,Electronics,CUST1123,Corporate,West,Ahmedabad,6,Pending,December,Q4,2025,Profit
+TXN100734,12/8/2025,8026.6,5361.99,899.78,2664.61,1764.83,Headphones,Accessories,CUST1058,Consumer,West,Ahmedabad,2,Completed,December,Q4,2025,Profit
+TXN100364,12/8/2025,103313.08,74058.17,7863.84,29254.91,21391.07,Monitor,Electronics,CUST1105,Corporate,South,Bengaluru,6,Completed,December,Q4,2025,Profit
+TXN100565,12/8/2025,23064.26,12052.35,2652.62,11011.91,8359.29,Tablet,Electronics,CUST1171,Consumer,North,Jaipur,1,Completed,December,Q4,2025,Profit
+TXN100211,12/9/2025,9368.3,5880.29,1063.28,3488.01,2424.73,Smartwatch,Accessories,CUST1125,Consumer,West,Ahmedabad,1,Completed,December,Q4,2025,Profit
+TXN100099,12/10/2025,15055,10476.68,1411.02,4578.32,3167.3,Keyboard,Accessories,CUST1053,Consumer,North,Delhi,8,Completed,December,Q4,2025,Profit
+TXN100020,12/10/2025,139275.62,77852.08,13261.5,61423.54,48162.04,Laptop,Electronics,CUST1130,Consumer,South,Chennai,2,Completed,December,Q4,2025,Profit
+TXN100096,12/11/2025,183497.71,120310.24,19761.21,63187.47,43426.26,Laptop,Electronics,CUST1151,Small Business,West,Mumbai,3,Completed,December,Q4,2025,Profit
+TXN100029,12/11/2025,2649.98,1522.61,447.28,1127.37,680.09,Backpack,Accessories,CUST1029,Corporate,West,Pune,1,Completed,December,Q4,2025,Profit
+TXN100136,12/12/2025,1628.13,1125.46,282.82,502.67,219.85,Keyboard,Accessories,CUST1048,Small Business,West,Mumbai,1,Pending,December,Q4,2025,Profit
+TXN100054,12/12/2025,16171.77,11995.15,2404.92,4176.62,1771.7,Smartwatch,Accessories,CUST1176,Consumer,South,Bengaluru,2,Completed,December,Q4,2025,Profit
+TXN100438,12/12/2025,20584.76,13410.58,1581.42,7174.18,5592.76,Headphones,Accessories,CUST1087,Consumer,West,Pune,5,Completed,December,Q4,2025,Profit
+TXN100261,12/12/2025,33202.93,19340.83,3023.96,13862.1,10838.14,Monitor,Electronics,CUST1116,Corporate,West,Mumbai,2,Cancelled,December,Q4,2025,Profit
+TXN100243,12/12/2025,96438.5,67136.72,10059.02,29301.78,19242.76,Office Chair,Furniture,CUST1175,Consumer,West,Ahmedabad,8,Completed,December,Q4,2025,Profit
+TXN100636,12/12/2025,100619.61,69694.03,9672.72,30925.58,21252.86,Smartphone,Electronics,CUST1103,Consumer,West,Pune,4,Completed,December,Q4,2025,Profit
+TXN100797,12/13/2025,58045.7,41132.59,4580.77,16913.11,12332.34,Laptop,Electronics,CUST1141,Consumer,North,Delhi,1,Completed,December,Q4,2025,Profit
+TXN100763,12/14/2025,4116.53,2413.27,702.27,1703.26,1000.99,Headphones,Accessories,CUST1146,Consumer,West,Pune,1,Completed,December,Q4,2025,Profit
+TXN100690,12/14/2025,35738.2,21987.37,2709.78,13750.83,11041.05,Smartwatch,Accessories,CUST1154,Consumer,North,Delhi,4,Completed,December,Q4,2025,Profit
+TXN100172,12/14/2025,15399.67,9138.66,1739.86,6261.01,4521.15,Monitor,Electronics,CUST1167,Corporate,North,Delhi,1,Pending,December,Q4,2025,Profit
+TXN100650,12/14/2025,34219.1,23859.75,5740.69,10359.35,4618.66,Monitor,Electronics,CUST1132,Consumer,South,Hyderabad,2,Completed,December,Q4,2025,Profit
+TXN100291,12/15/2025,4028.77,2335.01,524.37,1693.76,1169.39,Keyboard,Accessories,CUST1178,Consumer,South,Bengaluru,2,Completed,December,Q4,2025,Profit
+TXN100340,12/15/2025,67037.06,38688.68,4843.92,28348.38,23504.46,Laptop,Electronics,CUST1028,Consumer,West,Ahmedabad,1,Pending,December,Q4,2025,Profit
+TXN100461,12/15/2025,17829.99,12264.48,3081.02,5565.51,2484.49,Monitor,Electronics,CUST1179,Consumer,West,Mumbai,1,Completed,December,Q4,2025,Profit
+TXN100002,12/15/2025,3864.56,2761.41,348.96,1103.15,754.19,Keyboard,Accessories,UNKNOWN,Consumer,South,Hyderabad,2,Completed,December,Q4,2025,Profit
+TXN100239,12/15/2025,5892.68,3394.73,851.84,2497.95,1646.11,Keyboard,Accessories,CUST1162,Corporate,West,Ahmedabad,3,Completed,December,Q4,2025,Profit
+TXN100421,12/16/2025,4228.19,3233.76,542.34,994.43,452.09,Mouse,Accessories,CUST1121,Corporate,West,Surat,4,Completed,December,Q4,2025,Profit
+TXN100075,12/17/2025,17616.06,11984.72,2776.63,5631.34,2854.71,Monitor,Electronics,CUST1199,Consumer,North,Delhi,1,Completed,December,Q4,2025,Profit
+TXN100744,12/17/2025,122133.23,88679.99,16661.21,33453.24,16792.03,Tablet,Electronics,CUST1171,Corporate,South,Bengaluru,5,Completed,December,Q4,2025,Profit
+TXN100834,12/18/2025,3859.77,2462.56,554.88,1397.21,842.33,Keyboard,Accessories,CUST1069,Consumer,North,Jaipur,2,Completed,December,Q4,2025,Profit
+TXN100140,12/18/2025,12064.52,7566.31,1573.91,4498.21,2924.3,Backpack,Accessories,CUST1008,Small Business,East,Kolkata,5,Pending,December,Q4,2025,Profit
+TXN100246,12/18/2025,9229.28,5497.86,856.3,3731.42,2875.12,Keyboard,Accessories,CUST1104,Consumer,North,Jaipur,5,Completed,December,Q4,2025,Profit
+TXN100390,12/20/2025,8597.61,5024.85,1261.69,3572.76,2311.07,Keyboard,Accessories,CUST1132,Small Business,South,Bengaluru,5,Completed,December,Q4,2025,Profit
+TXN100558,12/21/2025,3271.27,1896.95,267.28,1374.32,1107.04,Keyboard,Accessories,CUST1001,Consumer,West,Ahmedabad,2,Pending,December,Q4,2025,Profit
+TXN100423,12/21/2025,3671.7,2269.99,282.07,1401.71,1119.64,Mouse,Accessories,CUST1164,Consumer,West,Mumbai,3,Completed,December,Q4,2025,Profit
+TXN100377,12/21/2025,5754.55,3058.26,841.7,2696.29,1854.59,Keyboard,Accessories,CUST1148,Consumer,West,Mumbai,3,Completed,December,Q4,2025,Profit
+TXN100482,12/23/2025,42674.28,31156.39,4492.74,11517.89,7025.15,Monitor,Electronics,CUST1070,Consumer,North,Jaipur,3,Completed,December,Q4,2025,Profit
+TXN100541,12/23/2025,126932.94,82597.17,20606.28,44335.77,23729.49,Laptop,Electronics,CUST1045,Small Business,West,Ahmedabad,2,Completed,December,Q4,2025,Profit
+TXN100699,12/23/2025,114769.03,73299.25,15730.91,41469.78,25738.87,Monitor,Electronics,CUST1010,Small Business,North,Delhi,8,Completed,December,Q4,2025,Profit
+TXN100746,12/24/2025,5191.15,3496.82,652.19,1694.33,1042.14,Mouse,Accessories,CUST1050,Consumer,West,Surat,5,Completed,December,Q4,2025,Profit
+TXN100686,12/24/2025,26994.12,19599.36,2444.58,7394.76,4950.18,Printer,Electronics,CUST1081,Consumer,West,Surat,2,Completed,December,Q4,2025,Profit
+TXN100181,12/25/2025,13021.69,9620.12,1586.58,3401.57,1814.99,Headphones,Accessories,CUST1163,Corporate,South,Bengaluru,3,Returned,December,Q4,2025,Profit
+TXN100132,12/25/2025,32195.88,20773.59,2880.17,11422.29,8542.12,Monitor,Electronics,CUST1133,Corporate,West,Pune,2,Completed,December,Q4,2025,Profit
+TXN100359,12/26/2025,97149.29,57223.76,13334.81,39925.53,26590.72,Tablet,Electronics,CUST1028,Small Business,West,Ahmedabad,4,Completed,December,Q4,2025,Profit
+TXN100252,12/26/2025,15939.08,10554.6,1431.87,5384.48,3952.61,Backpack,Accessories,CUST1003,Corporate,East,Kolkata,6,Completed,December,Q4,2025,Profit
+TXN100063,12/26/2025,72367.38,53965.93,7018.29,18401.45,11383.16,Desk,Furniture,CUST1048,Small Business,North,Delhi,4,Completed,December,Q4,2025,Profit
+TXN100014,12/26/2025,2425.17,1716.09,182.59,709.08,526.49,Mouse,Accessories,CUST1011,Consumer,West,Surat,2,Pending,December,Q4,2025,Profit
+TXN100830,12/26/2025,3528.04,2605.47,498.45,922.57,424.12,Mouse,Accessories,CUST1182,Small Business,South,Chennai,3,Completed,December,Q4,2025,Profit
+TXN100122,12/26/2025,125060.24,77416.85,13518.44,47643.39,34124.95,Laptop,Electronics,CUST1193,Consumer,West,Ahmedabad,2,Completed,December,Q4,2025,Profit
+TXN100648,12/27/2025,16758.14,11515.02,2615.98,5243.12,2627.14,Monitor,Electronics,CUST1024,Consumer,West,Mumbai,1,Cancelled,December,Q4,2025,Profit
+TXN100559,12/27/2025,51134.61,36745.47,6471.03,14389.14,7918.11,Printer,Electronics,CUST1108,Small Business,West,Ahmedabad,4,Completed,December,Q4,2025,Profit
+TXN100038,12/30/2025,183669.14,102162.76,29725.44,81506.38,51780.94,Laptop,Electronics,CUST1186,Consumer,West,Mumbai,3,Returned,December,Q4,2025,Profit
+TXN100631,12/30/2025,39955.34,25485.5,6546.66,14469.84,7923.18,Tablet,Electronics,CUST1033,Consumer,West,Ahmedabad,2,Completed,December,Q4,2025,Profit
+TXN100720,12/31/2025,177725.24,103302.29,30671.01,74422.95,43751.94,Laptop,Electronics,CUST1009,Corporate,West,Ahmedabad,3,Pending,December,Q4,2025,Profit
+TXN100313,12/31/2025,139479.01,88248.76,25062.99,51230.25,26167.26,Laptop,Electronics,CUST1067,Consumer,North,Delhi,2,Completed,December,Q4,2025,Profit
+TXN100420,12/31/2025,180496.15,121223.72,27132.97,59272.43,32139.46,Smartphone,Electronics,CUST1011,Corporate,West,Mumbai,6,Completed,December,Q4,2025,Profit
+TXN100619,12/31/2025,35232.14,20467.21,2542.41,14764.93,12222.52,Desk,Furniture,CUST1192,Consumer,West,Ahmedabad,2,Pending,December,Q4,2025,Profit

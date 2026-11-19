@@ -1,0 +1,70 @@
+Validation Category,Validation Check,Expected Result,Actual Result,Status,Remarks
+Structure,Cleaned: row and column count,850 rows and 19 columns,"(850, 19)",PASS,
+Structure,Cleaned: column names and order,"['Transaction_ID', 'Date', 'Revenue', 'Cost', 'Operating_Expense', 'Gross_Profit', 'Net_Profit', 'Product', 'Category', 'Customer_ID', 'Customer_Segment', 'Region', 'City', 'Quantity', 'Order_Status', 'Month', 'Quarter', 'Year', 'Profit_Status']","['Transaction_ID', 'Date', 'Revenue', 'Cost', 'Operating_Expense', 'Gross_Profit', 'Net_Profit', 'Product', 'Category', 'Customer_ID', 'Customer_Segment', 'Region', 'City', 'Quantity', 'Order_Status', 'Month', 'Quarter', 'Year', 'Profit_Status']",PASS,
+Structure,Date-Fixed: row and column count,850 rows and 19 columns,"(850, 19)",PASS,
+Structure,Date-Fixed: column names and order,"['Transaction_ID', 'Date', 'Revenue', 'Cost', 'Operating_Expense', 'Gross_Profit', 'Net_Profit', 'Product', 'Category', 'Customer_ID', 'Customer_Segment', 'Region', 'City', 'Quantity', 'Order_Status', 'Month', 'Quarter', 'Year', 'Profit_Status']","['Transaction_ID', 'Date', 'Revenue', 'Cost', 'Operating_Expense', 'Gross_Profit', 'Net_Profit', 'Product', 'Category', 'Customer_ID', 'Customer_Segment', 'Region', 'City', 'Quantity', 'Order_Status', 'Month', 'Quarter', 'Year', 'Profit_Status']",PASS,
+Missing Values,Cleaned: missing cells,0 missing cells,0,PASS,
+Missing Values,Date-Fixed: missing cells,0 missing cells,0,PASS,
+Missing Values,Explicit Week 1 placeholder labels,Report separately; not null cells,"{'Product = Unknown': 7, 'Customer_ID = UNKNOWN': 18, 'City = Unknown': 10, 'Order_Status = Unknown': 8}",WARNING,Placeholder counts can overlap only if a row has more than one such label.
+Duplicates,Cleaned: exact duplicate rows,0,0,PASS,
+Duplicates,Cleaned: duplicate Transaction_ID rows,0,0,PASS,
+Duplicates,Cleaned: unique transaction count,850,850,PASS,
+Duplicates,Date-Fixed: exact duplicate rows,0,0,PASS,
+Duplicates,Date-Fixed: duplicate Transaction_ID rows,0,0,PASS,
+Duplicates,Date-Fixed: unique transaction count,850,850,PASS,
+Data Types,Matching inferred types between CSVs,Same inferred dtype for every column,True,PASS,
+Data Types,Cleaned: numeric columns,"Numeric: ['Revenue', 'Cost', 'Operating_Expense', 'Gross_Profit', 'Net_Profit', 'Quantity', 'Year']","{'Revenue': 'float64', 'Cost': 'float64', 'Operating_Expense': 'float64', 'Gross_Profit': 'float64', 'Net_Profit': 'float64', 'Quantity': 'int64', 'Year': 'int64'}",PASS,
+Data Types,Cleaned: Date is stored as text before parsing,Text/string,str,PASS,
+Data Types,Date-Fixed: numeric columns,"Numeric: ['Revenue', 'Cost', 'Operating_Expense', 'Gross_Profit', 'Net_Profit', 'Quantity', 'Year']","{'Revenue': 'float64', 'Cost': 'float64', 'Operating_Expense': 'float64', 'Gross_Profit': 'float64', 'Net_Profit': 'float64', 'Quantity': 'int64', 'Year': 'int64'}",PASS,
+Data Types,Date-Fixed: Date is stored as text before parsing,Text/string,str,PASS,
+Dates,Cleaned: observed date format,850 dates in expected format,850,PASS,
+Dates,Cleaned: invalid dates,0 invalid dates,0,PASS,
+Dates,Date-Fixed: observed date format,850 dates in expected format,850,PASS,
+Dates,Date-Fixed: invalid dates,0 invalid dates,0,PASS,
+Dates,Transaction dates match after datetime standardization,850 matching dates,850 matching dates,PASS,
+Dates,Raw date strings differ due to formatting,Formatting may differ; parsed dates must match,850 of 850 strings differ,PASS,Raw string differences are expected for the date-standardized file.
+Dates,Cleaned: Month agrees with Date,0 mismatches,0,PASS,
+Dates,Cleaned: Quarter agrees with Date,0 mismatches,0,PASS,
+Dates,Cleaned: Year agrees with Date,0 mismatches,0,PASS,
+Dates,Date-Fixed: Month agrees with Date,0 mismatches,0,PASS,
+Dates,Date-Fixed: Quarter agrees with Date,0 mismatches,0,PASS,
+Dates,Date-Fixed: Year agrees with Date,0 mismatches,0,PASS,
+Financial Calculations,Cleaned: Gross Profit formula,Gross_Profit = Revenue - Cost; 0 mismatches,0,PASS,
+Financial Calculations,Cleaned: Net Profit formula,Net_Profit = Gross_Profit - Operating_Expense; 0 mismatches,0,PASS,
+Financial Calculations,Cleaned: negative financial values,Report count; negatives are not automatically errors,0,PASS,Review any negative values in business context.
+Financial Calculations,Cleaned: Profit_Status consistency,Profit for Net_Profit >= 0; otherwise Loss,0,PASS,
+Suspicious Values,Revenue: 1.5xIQR flags,Report possible outliers for review; do not auto-fail,55,WARNING,IQR bounds: -100146.16 to 207029.28. Statistical flags are not proof of errors.
+Suspicious Values,Cost: 1.5xIQR flags,Report possible outliers for review; do not auto-fail,53,WARNING,IQR bounds: -67079.14 to 137309.49. Statistical flags are not proof of errors.
+Suspicious Values,Operating_Expense: 1.5xIQR flags,Report possible outliers for review; do not auto-fail,71,WARNING,IQR bounds: -12060.73 to 24745.92. Statistical flags are not proof of errors.
+Suspicious Values,Gross_Profit: 1.5xIQR flags,Report possible outliers for review; do not auto-fail,62,WARNING,IQR bounds: -36189.38 to 72943.39. Statistical flags are not proof of errors.
+Suspicious Values,Net_Profit: 1.5xIQR flags,Report possible outliers for review; do not auto-fail,67,WARNING,IQR bounds: -24258.47 to 47985.58. Statistical flags are not proof of errors.
+Suspicious Values,Quantity: 1.5xIQR flags,Report possible outliers for review; do not auto-fail,56,WARNING,IQR bounds: -1.00 to 7.00. Statistical flags are not proof of errors.
+Financial Calculations,Date-Fixed: Gross Profit formula,Gross_Profit = Revenue - Cost; 0 mismatches,0,PASS,
+Financial Calculations,Date-Fixed: Net Profit formula,Net_Profit = Gross_Profit - Operating_Expense; 0 mismatches,0,PASS,
+Financial Calculations,Date-Fixed: negative financial values,Report count; negatives are not automatically errors,0,PASS,Review any negative values in business context.
+Financial Calculations,Date-Fixed: Profit_Status consistency,Profit for Net_Profit >= 0; otherwise Loss,0,PASS,
+Suspicious Values,Unique rows with one or more 1.5xIQR flags,Report for review; not automatically an error,129,WARNING,"Screened measures: {'Revenue': 55, 'Cost': 53, 'Operating_Expense': 71, 'Gross_Profit': 62, 'Net_Profit': 67, 'Quantity': 56}"
+Financial Totals,Cleaned: total Revenue,Same calculated total in both CSVs,"61,039,689.51; other CSV=61,039,689.51",PASS,
+Financial Totals,Cleaned: total Cost,Same calculated total in both CSVs,"39,438,335.24; other CSV=39,438,335.24",PASS,
+Financial Totals,Cleaned: total Operating_Expense,Same calculated total in both CSVs,"7,682,978.67; other CSV=7,682,978.67",PASS,
+Financial Totals,Cleaned: total Gross_Profit,Same calculated total in both CSVs,"21,601,354.27; other CSV=21,601,354.27",PASS,
+Financial Totals,Cleaned: total Net_Profit,Same calculated total in both CSVs,"13,918,375.60; other CSV=13,918,375.60",PASS,
+Financial Totals,Date-Fixed: total Revenue,Same calculated total in both CSVs,"61,039,689.51; other CSV=61,039,689.51",PASS,
+Financial Totals,Date-Fixed: total Cost,Same calculated total in both CSVs,"39,438,335.24; other CSV=39,438,335.24",PASS,
+Financial Totals,Date-Fixed: total Operating_Expense,Same calculated total in both CSVs,"7,682,978.67; other CSV=7,682,978.67",PASS,
+Financial Totals,Date-Fixed: total Gross_Profit,Same calculated total in both CSVs,"21,601,354.27; other CSV=21,601,354.27",PASS,
+Financial Totals,Date-Fixed: total Net_Profit,Same calculated total in both CSVs,"13,918,375.60; other CSV=13,918,375.60",PASS,
+Unexpected Values,Order_Status allowed values,"['Cancelled', 'Completed', 'Pending', 'Returned', 'Unknown']","['Cancelled', 'Completed', 'Pending', 'Returned', 'Unknown']",PASS,
+Unexpected Values,Unexpected Order_Status values,None,[],PASS,
+Unexpected Values,Blank categorical labels,0 blank labels,"{'Product': 0, 'Category': 0, 'Customer_Segment': 0, 'Region': 0, 'City': 0, 'Order_Status': 0, 'Profit_Status': 0}",PASS,No external product/customer/location master list was supplied; observed levels are profiled above.
+Dataset Comparison,Same record and column counts,Both files have 850 rows and 19 columns,"Cleaned=(850, 19); Date-Fixed=(850, 19)",PASS,
+Dataset Comparison,Same column names and order,Identical columns in identical order,True,PASS,
+Dataset Comparison,Same Transaction_ID values,Same 850 unique IDs,True,PASS,
+Dataset Comparison,Same financial values,No differences,True,PASS,
+Dataset Comparison,Same customer information,No differences,True,PASS,
+Dataset Comparison,Same product information,No differences,True,PASS,
+Dataset Comparison,Same regional information,No differences,True,PASS,
+Dataset Comparison,Same quantities and order statuses,No differences,True,PASS,
+Dataset Comparison,Same derived date labels,No differences,True,PASS,
+Dataset Comparison,All non-Date record values,No differences across all non-Date columns,True,PASS,
+Week 1 Consistency,TXN100505 preprocessing expectation,Raw input has quantities 3 and 75; final outputs retain quantity 3 only,"Week 1 cell 8 (index 7, ID fd3eb9c4) expects raw quantities [3, 75]; raw source has 2 rows with quantities [3, 75]; each supplied final CSV has one row with quantity 3.",PASS,"This is a stage-of-processing distinction, not an outdated assumption: the Week 1 notebook reads the raw dataset and exports the cleaned dataset after removing quantity 75."
